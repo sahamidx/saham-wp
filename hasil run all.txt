@@ -1,0 +1,281 @@
+PS C:\Users\Lenovo\Documents\Ai\saham-wp> python run_all.py
+>>
+Update data...
+Fetching ACES ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ADMR ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ADRO ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching AKRA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching AMMN ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching AMRT ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ANTM ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ARTO ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ASII ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BBCA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BBNI ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BBRI ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BBTN ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BMRI ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BRIS ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching BRPT ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching CPIN ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching CTRA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ESSA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching EXCL ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching GOTO ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ICBP ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching INCO ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching INDF ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching INKP ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ISAT ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching ITMG ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching JPFA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching JSMR ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching KLBF ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching MAPA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching MAPI ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching MBMA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching MDKA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching MEDC ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching PGAS ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching PGEO ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching PTBA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching SIDO ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching SMGR ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching SMRA ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching TLKM ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching TOWR ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching UNTR ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Fetching UNVR ...
+C:\Users\Lenovo\Documents\Ai\saham-wp\scripts\update_data.py:49: FutureWarning: YF.download() has changed argument auto_adjust default to True
+  df = yf.download(f"{kode}.JK", period="5y", interval="1d")
+[*********************100%***********************]  1 of 1 completed
+Selesai. Semua data sudah disimpan.
+🔎 Validasi...
+Folder data/fundamentals/ tidak ditemukan.
+Generate artikel...
+Artikel ACES → output\ACES.html
+Artikel ADMR → output\ADMR.html
+Artikel ADRO → output\ADRO.html
+Artikel AKRA → output\AKRA.html
+Artikel AMMN → output\AMMN.html
+Artikel AMRT → output\AMRT.html
+Artikel ANTM → output\ANTM.html
+Artikel ARTO → output\ARTO.html
+Artikel ASII → output\ASII.html
+Artikel BBCA → output\BBCA.html
+Artikel BBNI → output\BBNI.html
+Artikel BBRI → output\BBRI.html
+Artikel BBTN → output\BBTN.html
+Artikel BMRI → output\BMRI.html
+Artikel BRIS → output\BRIS.html
+Artikel BRPT → output\BRPT.html
+Artikel CPIN → output\CPIN.html
+Artikel CTRA → output\CTRA.html
+Artikel ESSA → output\ESSA.html
+Artikel EXCL → output\EXCL.html
+Artikel GOTO → output\GOTO.html
+Artikel ICBP → output\ICBP.html
+Artikel INCO → output\INCO.html
+Artikel INDF → output\INDF.html
+Artikel INKP → output\INKP.html
+Artikel ISAT → output\ISAT.html
+Artikel ITMG → output\ITMG.html
+Artikel JPFA → output\JPFA.html
+Artikel JSMR → output\JSMR.html
+Artikel KLBF → output\KLBF.html
+Artikel MAPA → output\MAPA.html
+Artikel MAPI → output\MAPI.html
+Artikel MBMA → output\MBMA.html
+Artikel MDKA → output\MDKA.html
+Artikel MEDC → output\MEDC.html
+Artikel PGAS → output\PGAS.html
+Artikel PGEO → output\PGEO.html
+Artikel PTBA → output\PTBA.html
+Artikel SIDO → output\SIDO.html
+Artikel SMGR → output\SMGR.html
+Artikel SMRA → output\SMRA.html
+Artikel TLKM → output\TLKM.html
+Artikel TOWR → output\TOWR.html
+Artikel UNTR → output\UNTR.html
+Artikel UNVR → output\UNVR.html
+Semua artikel berhasil digenerate.
+🌐 Upload ke WordPress...
+Upload sukses: ACES → ID 2033
+Upload sukses: ADMR → ID 2034
+Upload sukses: ADRO → ID 2035
+Upload sukses: AKRA → ID 2036
+Upload sukses: AMMN → ID 2037
+Upload sukses: AMRT → ID 2038
+Upload sukses: ANTM → ID 2039
+Upload sukses: ARTO → ID 2040
+Upload sukses: ASII → ID 2041
+Upload sukses: BBCA → ID 2042
+Upload sukses: BBNI → ID 2043
+Upload sukses: BBRI → ID 2044
+Upload sukses: BBTN → ID 2045
+Upload sukses: BMRI → ID 2046
+Upload sukses: BRIS → ID 2047
+Upload sukses: BRPT → ID 2048
+Upload sukses: CPIN → ID 2049
+Upload sukses: CTRA → ID 2050
+Upload sukses: ESSA → ID 2051
+Upload sukses: EXCL → ID 2052
+Upload sukses: GOTO → ID 2053
+Upload sukses: ICBP → ID 2054
+Upload sukses: INCO → ID 2055
+Upload sukses: INDF → ID 2056
+Upload sukses: INKP → ID 2057
+Upload sukses: ISAT → ID 2058
+Upload sukses: ITMG → ID 2059
+Upload sukses: JPFA → ID 2060
+Upload sukses: JSMR → ID 2061
+Upload sukses: KLBF → ID 2062
+Upload sukses: MAPA → ID 2063
+Upload sukses: MAPI → ID 2064
+Upload sukses: MBMA → ID 2065
+Upload sukses: MDKA → ID 2066
+Upload sukses: MEDC → ID 2067
+Upload sukses: PGAS → ID 2068
+Upload sukses: PGEO → ID 2069
+Upload sukses: PTBA → ID 2070
+Upload sukses: SIDO → ID 2071
+Upload sukses: SMGR → ID 2072
+Upload sukses: SMRA → ID 2073
+Upload sukses: TLKM → ID 2074
+Upload sukses: TOWR → ID 2075
+Upload sukses: UNTR → ID 2076
+Upload sukses: UNVR → ID 2077
+Semua upload selesai.
+Semua proses selesai.

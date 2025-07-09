@@ -1,0 +1,10 @@
+{
+  "kode": "MBMA",
+  "outliers": {
+    "per": true,
+    "pbv": true,
+    "eps": false,
+    "dividen_yield": false,
+    "market_cap": false
+  }
+}

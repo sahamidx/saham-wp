@@ -1,0 +1,10 @@
+{
+  "kode": "MEDC",
+  "outliers": {
+    "per": false,
+    "pbv": true,
+    "eps": false,
+    "dividen_yield": true,
+    "market_cap": false
+  }
+}

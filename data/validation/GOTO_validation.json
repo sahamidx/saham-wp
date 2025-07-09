@@ -1,0 +1,10 @@
+{
+  "kode": "GOTO",
+  "outliers": {
+    "per": false,
+    "pbv": false,
+    "eps": false,
+    "dividen_yield": false,
+    "market_cap": false
+  }
+}

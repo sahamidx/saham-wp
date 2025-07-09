@@ -1,0 +1,10 @@
+{
+  "kode": "AMMN",
+  "outliers": {
+    "per": false,
+    "pbv": true,
+    "eps": false,
+    "dividen_yield": false,
+    "market_cap": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "kode": "BMRI",
+  "outliers": {
+    "per": false,
+    "pbv": false,
+    "eps": false,
+    "dividen_yield": true,
+    "market_cap": false
+  }
+}
