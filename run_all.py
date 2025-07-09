@@ -13,3 +13,7 @@ print("🌐 Upload ke WordPress...")
 os.system("python scripts/upload_to_wp.py")
 
 print("✅ Semua proses selesai.")
+
+print("🛡 Push ke GitHub...")
+os.system("python scripts/commit_push.py")
+
