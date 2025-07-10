@@ -1,0 +1,9 @@
+pandas
+yfinance
+requests
+jinja2
+python-dotenv
+python-slugify
+beautifulsoup4
+lxml
+schedule
