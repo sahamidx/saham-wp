@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Upload HTML artikel saham ke WordPress sebagai draft via REST API
+Upload HTML artikel saham ke WordPress sebagai draft atau update jika sudah ada.
 """
 
 import os
@@ -38,7 +38,7 @@ def upload_post(kode):
     payload = {
         "title": title,
         "slug": slug,
-        "status": "draft",
+        "status": "publish",
         "categories": [CATEGORY_ID],
         "content": html
     }
@@ -50,14 +50,30 @@ def upload_post(kode):
         "Content-Type": "application/json"
     }
 
-    url = f"{WP_SITE}/wp-json/wp/v2/posts"
-    res = requests.post(url, headers=headers, json=payload)
+    # Step 1: cek apakah slug sudah ada
+    check_url = f"{WP_SITE}/wp-json/wp/v2/posts?slug={slug}"
+    check_res = requests.get(check_url, headers=headers)
+    posts = check_res.json()
 
-    if res.status_code == 201:
-        print(f"✅ Upload sukses: {kode} → ID {res.json().get('id')}")
+    if posts:
+        # Overwrite konten (pakai PUT)
+        post_id = posts[0]["id"]
+        update_url = f"{WP_SITE}/wp-json/wp/v2/posts/{post_id}"
+        res = requests.put(update_url, headers=headers, json=payload)
+
+        if res.status_code == 200:
+            print(f"🔁 Overwrite sukses: {kode} → ID {post_id}")
+        else:
+            print(f"❌ Gagal update {kode} → {res.status_code}")
     else:
-        print(f"❌ Upload gagal: {kode} → {res.status_code}")
-        print(res.text)
+        # Buat post baru
+        create_url = f"{WP_SITE}/wp-json/wp/v2/posts"
+        res = requests.post(create_url, headers=headers, json=payload)
+
+        if res.status_code == 201:
+            print(f"✅ Upload sukses: {kode} → ID {res.json().get('id')}")
+        else:
+            print(f"❌ Gagal upload: {kode} → {res.status_code}")
 
 def main():
     files = [f for f in os.listdir(OUTPUT_DIR) if f.endswith(".html")]
