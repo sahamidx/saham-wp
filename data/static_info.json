@@ -1,0 +1,317 @@
+[
+  {
+    "kode": "ACES",
+    "nama": "PT Aspirasi Hidup Indonesia Tbk",
+    "sektor": "Barang Konsumen Non-Primer",
+    "subsektor": "Perdagangan Ritel",
+    "ipo_date": "6 November 2007"
+  },
+  {
+    "kode": "ADMR",
+    "nama": "PT Adaro Minerals Indonesia Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "3 Januari 2022"
+  },
+  {
+    "kode": "ADRO",
+    "nama": "PT Adaro Energy Indonesia Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "16 Juli 2008"
+  },
+  {
+    "kode": "AKRA",
+    "nama": "PT AKR Corporindo Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "3 Oktober 1994"
+  },
+  {
+    "kode": "AMMN",
+    "nama": "PT Amman Mineral Internasional Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "7 Juli 2023"
+  },
+  {
+    "kode": "AMRT",
+    "nama": "PT Sumber Alfaria Trijaya Tbk",
+    "sektor": "Barang Konsumen Primer",
+    "subsektor": "Perdagangan Ritel Primer",
+    "ipo_date": "15 Januari 2009"
+  },
+  {
+    "kode": "ANTM",
+    "nama": "PT Aneka Tambang Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "27 November 1997"
+  },
+  {
+    "kode": "ARTO",
+    "nama": "PT Bank Jago Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Bank",
+    "ipo_date": "12 Januari 2016"
+  },
+  {
+    "kode": "ASII",
+    "nama": "PT Astra International Tbk",
+    "sektor": "Perindustrian",
+    "subsektor": "Perusahaan Holding Multi Sektor",
+    "ipo_date": "4 April 1990"
+  },
+  {
+    "kode": "BBCA",
+    "nama": "PT Bank Central Asia Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Bank",
+    "ipo_date": "31 Mei 2000"
+  },
+  {
+    "kode": "BBNI",
+    "nama": "PT Bank Negara Indonesia (Persero) Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Bank",
+    "ipo_date": "25 November 1996"
+  },
+  {
+    "kode": "BBRI",
+    "nama": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Bank",
+    "ipo_date": "10 November 2003"
+  },
+  {
+    "kode": "BBTN",
+    "nama": "PT Bank Tabungan Negara (Persero) Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Perbankan",
+    "ipo_date": "17 Desember 2009"
+  },
+  {
+    "kode": "BMRI",
+    "nama": "PT Bank Mandiri (Persero) Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Bank",
+    "ipo_date": "14 Juli 2003"
+  },
+  {
+    "kode": "BRIS",
+    "nama": "PT Bank Syariah Indonesia Tbk",
+    "sektor": "Keuangan",
+    "subsektor": "Bank",
+    "ipo_date": "9 Mei 2018"
+  },
+  {
+    "kode": "BRPT",
+    "nama": "PT Barito Pacific Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku Industri",
+    "ipo_date": "1 Oktober 1993"
+  },
+  {
+    "kode": "CPIN",
+    "nama": "PT Charoen Pokphand Indonesia Tbk",
+    "sektor": "Barang Konsumen Primer",
+    "subsektor": "Makanan & Minuman",
+    "ipo_date": "18 Maret 1991"
+  },
+  {
+    "kode": "CTRA",
+    "nama": "PT Ciputra Development Tbk",
+    "sektor": "Properti & Real Estat",
+    "subsektor": "Properti & Real Estat",
+    "ipo_date": "28 Maret 1994"
+  },
+  {
+    "kode": "ESSA",
+    "nama": "PT ESSA Industries Indonesia Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "1 Februari 2012"
+  },
+  {
+    "kode": "EXCL",
+    "nama": "PT XL Axiata Tbk",
+    "sektor": "Infrastruktur",
+    "subsektor": "Telekomunikasi",
+    "ipo_date": "29 September 2005"
+  },
+  {
+    "kode": "GOTO",
+    "nama": "PT GoTo Gojek Tokopedia Tbk",
+    "sektor": "Teknologi",
+    "subsektor": "Jasa Perangkat Lunak & TI",
+    "ipo_date": "11 April 2022"
+  },
+  {
+    "kode": "ICBP",
+    "nama": "PT Indofood CBP Sukses Makmur Tbk",
+    "sektor": "Barang Konsumen Primer",
+    "subsektor": "Makanan & Minuman",
+    "ipo_date": "7 Oktober 2010"
+  },
+  {
+    "kode": "INCO",
+    "nama": "PT Vale Indonesia Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "16 Mei 1990"
+  },
+  {
+    "kode": "INDF",
+    "nama": "PT Indofood Sukses Makmur Tbk",
+    "sektor": "Barang Konsumen Primer",
+    "subsektor": "Makanan & Minuman",
+    "ipo_date": "14 Juli 1994"
+  },
+  {
+    "kode": "INKP",
+    "nama": "PT Indah Kiat Pulp & Paper Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "16 Juli 1990"
+  },
+  {
+    "kode": "ISAT",
+    "nama": "PT Indosat Ooredoo Hutchison Tbk",
+    "sektor": "Infrastruktur",
+    "subsektor": "Telekomunikasi",
+    "ipo_date": "19 Oktober 1994"
+  },
+  {
+    "kode": "ITMG",
+    "nama": "PT Indo Tambangraya Megah Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "18 Desember 2007"
+  },
+  {
+    "kode": "JPFA",
+    "nama": "PT Japfa Comfeed Indonesia Tbk",
+    "sektor": "Barang Konsumen Primer",
+    "subsektor": "Makanan & Minuman",
+    "ipo_date": "23 Oktober 1989"
+  },
+  {
+    "kode": "JSMR",
+    "nama": "PT Jasa Marga Tbk",
+    "sektor": "Infrastruktur",
+    "subsektor": "Infrastruktur Transportasi",
+    "ipo_date": "12 November 2007"
+  },
+  {
+    "kode": "KLBF",
+    "nama": "PT Kalbe Farma Tbk",
+    "sektor": "Kesehatan",
+    "subsektor": "Farmasi & Riset Kesehatan",
+    "ipo_date": "30 Juli 1991"
+  },
+  {
+    "kode": "MAPA",
+    "nama": "PT Map Aktif Adiperkasa Tbk",
+    "sektor": "Barang Konsumen Non-Primer",
+    "subsektor": "Perdagangan Ritel",
+    "ipo_date": "5 Juli 2018"
+  },
+  {
+    "kode": "MAPI",
+    "nama": "PT Mitra Adiperkasa Tbk",
+    "sektor": "Barang Konsumen Non-Primer",
+    "subsektor": "Perdagangan Ritel",
+    "ipo_date": "10 November 2004"
+  },
+  {
+    "kode": "MBMA",
+    "nama": "PT Merdeka Battery Materials Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "18 April 2023"
+  },
+  {
+    "kode": "MDKA",
+    "nama": "PT Merdeka Copper Gold Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "19 Juni 2015"
+  },
+  {
+    "kode": "MEDC",
+    "nama": "PT Medco Energi Internasional Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "12 Oktober 1994"
+  },
+  {
+    "kode": "PGAS",
+    "nama": "PT Perusahaan Gas Negara Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "15 Desember 2003"
+  },
+  {
+    "kode": "PGEO",
+    "nama": "PT Pertamina Geothermal Energy Tbk",
+    "sektor": "Infrastruktur",
+    "subsektor": "Utilitas",
+    "ipo_date": "24 Februari 2023"
+  },
+  {
+    "kode": "PTBA",
+    "nama": "PT Bukit Asam Tbk",
+    "sektor": "Energi",
+    "subsektor": "Minyak, Gas & Batu Bara",
+    "ipo_date": "23 Desember 2002"
+  },
+  {
+    "kode": "SIDO",
+    "nama": "PT Industri Jamu Dan Farmasi Sido Muncul Tbk",
+    "sektor": "Kesehatan",
+    "subsektor": "Farmasi & Riset Kesehatan",
+    "ipo_date": "18 Desember 2013"
+  },
+  {
+    "kode": "SMGR",
+    "nama": "PT Semen Indonesia (Persero) Tbk",
+    "sektor": "Barang Baku",
+    "subsektor": "Barang Baku",
+    "ipo_date": "8 Juli 1991"
+  },
+  {
+    "kode": "SMRA",
+    "nama": "PT Summarecon Agung Tbk",
+    "sektor": "Properti & Real Estat",
+    "subsektor": "Properti & Real Estat",
+    "ipo_date": "7 Mei 1990"
+  },
+  {
+    "kode": "TLKM",
+    "nama": "PT Telkom Indonesia (Persero) Tbk",
+    "sektor": "Infrastruktur",
+    "subsektor": "Telekomunikasi",
+    "ipo_date": "14 November 1995"
+  },
+  {
+    "kode": "TOWR",
+    "nama": "PT Sarana Menara Nusantara Tbk",
+    "sektor": "Infrastruktur",
+    "subsektor": "Telekomunikasi",
+    "ipo_date": "8 Maret 2010"
+  },
+  {
+    "kode": "UNTR",
+    "nama": "PT United Tractors Tbk",
+    "sektor": "Perindustrian",
+    "subsektor": "Barang Industri",
+    "ipo_date": "19 September 1989"
+  },
+  {
+    "kode": "UNVR",
+    "nama": "PT Unilever Indonesia Tbk",
+    "sektor": "Barang Konsumen Primer",
+    "subsektor": "Produk Rumah Tangga Non-Tahan Lama",
+    "ipo_date": "11 Januari 1982"
+  }
+]
