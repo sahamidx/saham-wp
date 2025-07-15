@@ -11,10 +11,12 @@ import json
 from jinja2 import Environment, FileSystemLoader
 
 # Path absolut dari root proyek
-FUND_DIR = "data/fundamentals"
-VALID_DIR = "data/validation"
-TEMPLATE_DIR = "templates"
-OUTPUT_DIR = "output"
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # root: saham-wp
+FUND_DIR = os.path.join(BASE_DIR, "data", "fundamentals")
+VALID_DIR = os.path.join(BASE_DIR, "data", "validation")
+TEMPLATE_DIR = os.path.join(BASE_DIR, "templates")
+OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+
 
 # Setup Jinja2
 env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
