@@ -9,5 +9,9 @@
   "dividen_yield": 88.0,
   "harga": 2750.0,
   "saham_beredar": 46129299456,
-  "last_updated": "2025-07-15"
+  "last_updated": "2025-07-15",
+  "nama": "PT Bank Syariah Indonesia Tbk",
+  "sektor": "Keuangan",
+  "subsektor": "Bank",
+  "ipo_date": "9 Mei 2018"
 }
