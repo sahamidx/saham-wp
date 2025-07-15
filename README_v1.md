@@ -1,99 +1,90 @@
-# IDXSTOCK SAHAM-WP v1.0 – SISTEM GENERATE ARTIKEL SAHAM OTOMATIS
+# 🚀 Cerita Perjalanan `saham-wp`: Dari Nol Hingga Produksi Otomatis
 
-## 🧠 Tujuan Sistem
-Sistem ini bertugas mengambil data saham dari sumber valid, melakukan validasi, merender artikel berbasis template, dan mengunggahnya ke WordPress (idxstock.com) secara otomatis.
+Ini adalah dokumentasi real tentang bagaimana sistem `saham-wp` dibangun dari nol hingga berhasil menghasilkan artikel saham yang:
 
-## 🧱 Struktur Folder
+✅ Valid,  
+✅ Otomatis,  
+✅ Diupload ke WordPress,  
+✅ Dan dibackup ke GitHub tiap hari.
 
-```
+---
+
+## 🛠 Awal Mula
+
+> "Capek juga bro... file kosong, belum bisa validate..."
+
+Proyek dimulai dari folder kosong. Banyak error awal:
+- File tidak ditemukan (`FileNotFoundError`)
+- Cron tidak jalan
+- Upload ke WordPress gagal
+- Duplikasi slug `-2` terus muncul
+- GitHub tidak bisa push (`403`, `pathspec`, credential error)
+
+Tapi semua ditangani satu per satu.
+
+---
+
+## 📦 Struktur Proyek Final
+
 saham-wp/
 ├── data/
-│   ├── static_info.csv        ← Daftar kode saham
-│   ├── fundamentals/          ← Output data JSON per emiten
-│   ├── validation/            ← Outlier JSON per emiten
-│   └── prices/                ← Data harga harian
-├── templates/
-│   └── template_emiten.html   ← Template artikel HTML (final)
+│ ├── static_info.csv
+│ ├── fundamentals/
+│ ├── validation/
 ├── output/
-│   └── *.html                 ← Artikel final siap upload
 ├── scripts/
-│   ├── update_data.py
-│   ├── validate_fundamentals.py
-│   ├── generate_article.py
-│   └── upload_to_wp.py
-```
+│ ├── update_data.py
+│ ├── validate_fundamentals.py
+│ ├── generate_article.py
+│ ├── upload_to_wp.py
+│ ├── commit_push.py
+│ └── run_all.py
+├── templates/
+│ └── template_emiten.html
 
-## ⚙️ Alur Eksekusi
 
-1. **Update data saham**
-   ```bash
-   python scripts/update_data.py --codes-file data/static_info.csv --output-dir data
-   ```
+---
 
-2. **Validasi data fundamental**
-   ```bash
-   python scripts/validate_fundamentals.py
-   ```
+## 🔁 Workflow Otomatis (`run_all.py`)
 
-3. **Generate artikel HTML**
-   ```bash
-   python scripts/generate_article.py
-   ```
+1. Ambil data yfinance (interval harian, stabil T–0)
+2. Validasi fundamental & outlier
+3. Generate artikel HTML per saham
+4. Upload ke WordPress (overwrite jika slug sudah ada)
+5. Push semua ke GitHub
 
-4. **Upload ke WordPress (draft)**
-   ```bash
-   python scripts/upload_to_wp.py
-   ```
+---
 
-## 📝 Format `static_info.csv`
+## 🔐 Masalah yang Diselesaikan
 
-```csv
-kode
-BBRI
-BBCA
-UNVR
-```
+| Masalah Awal                 | Solusi Implementasi                        |
+|-----------------------------|---------------------------------------------|
+| Cron tidak jalan             | Task Scheduler fix, bisa manual juga        |
+| Upload duplikat `slug-2`     | `upload_to_wp.py` pakai `PUT` jika slug ada |
+| `git commit` error (pathspec)| Fix tanda kutip di `commit_push.py`         |
+| Repo GitHub salah akun       | Ubah remote, re-auth pakai token            |
+| Artikel tidak overwrite      | Validasi via API → update by `post_id`      |
 
-## ✍️ Tentang Template
+---
 
-- Template dipakai: `templates/template_emiten.html`
-- Gaya: formal populer (semi-blog)
-- Sudah mengandung paragraf antar heading
-- Tidak menampilkan data ekstrem/outlier
-- Memakai `{{ kode }}`, `{{ nama }}`, `{{ sektor }}`, dll dari JSON
+## 🎯 Status Final
 
-## 🔐 Catatan Validasi
+- `run_all.py` jalan manual dan siap cron 17:00
+- Artikel seperti `https://idxstock.com/unvr/` berhasil overwrite
+- Push otomatis ke GitHub: [https://github.com/sahamidx/saham-wp](https://github.com/sahamidx/saham-wp)
+- Sudah diterbitkan batch LQ45
+- Template clean, tanpa gimmick promosi
 
-Outlier yang ditandai (tapi tidak ditampilkan di artikel):
+---
 
-| Field           | Outlier Jika                          |
-|----------------|----------------------------------------|
-| PER             | > 100                                  |
-| PBV             | > 20                                   |
-| EPS             | < -1000 atau > 10.000                 |
-| Dividen Yield   | > 25%                                  |
-| Market Cap      | < 1T atau > 5.000T                     |
+## 🏁 Kata Terakhir
 
-## 🔑 Akses WordPress API
+Sistem ini adalah hasil kerja keras, trial-error, dan pendekatan modular.  
+Disusun secara **stabil, bisa diskalakan, dan siap jangka panjang**.
 
-| Item              | Value                              |
-|-------------------|------------------------------------|
-| Situs             | https://idxstock.com               |
-| Email user        | kendalreload@gmail.com             |
-| Application Pass  | fEZA 2JYS 4i2j LBQq slaN 5oqv       |
-| Kategori ID       | 5 (kategori "saham")               |
+> "Capek sih... tapi sekarang tinggal nikmati batch harian."  
+> — idxstock, Juli 2025
 
-## 🔁 Rencana Selanjutnya
+---
 
-Jika sistem v1.0 ini berjalan stabil…
-
-- [ ] Integrasi cron scheduler
-- [ ] Optimasi internal linking
-- [ ] Auto schema (FAQ, HowTo)
-- [ ] Tagging otomatis berdasarkan sektor
-- [ ] Generate halaman indeks (IDX30, LQ45)
-- [ ] Integrasi foreign flow, volume distribusi
-
-## 🏁 Status
-✅ Sistem artikel saham v1.0 stabil dan produksi-ready.  
-Siap upload ratusan artikel secara batch dan konsisten.
+Terima kasih untuk semua error yang mendewasakan proyek ini 😉
