@@ -1,13 +1,13 @@
 {
   "kode": "ITMG",
-  "market_cap": 25479696351232,
-  "eps": 5545.8,
-  "per": 4.06614,
-  "pbv": 13683.252,
+  "market_cap": 25394952536064,
+  "eps": 5529.26,
+  "per": 4.064739,
+  "pbv": 13637.743,
   "roe": null,
   "der": null,
-  "dividen_yield": 1465.0,
-  "harga": 22550.0,
+  "dividen_yield": 1540.0,
+  "harga": 22475.0,
   "saham_beredar": 1129920000,
-  "last_updated": "2025-08-12"
+  "last_updated": "2025-08-13"
 }
