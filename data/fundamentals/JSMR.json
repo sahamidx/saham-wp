@@ -1,13 +1,13 @@
 {
   "kode": "JSMR",
-  "market_cap": 24676757667840,
-  "eps": 559.25,
-  "per": 6.079571,
-  "pbv": 0.7094657,
+  "market_cap": 24023549345792,
+  "eps": 559.3,
+  "per": 5.9181123,
+  "pbv": 0.6906857,
   "roe": null,
   "der": null,
-  "dividen_yield": 453.0,
-  "harga": 3400.0,
+  "dividen_yield": 459.0,
+  "harga": 3310.0,
   "saham_beredar": 7257869824,
-  "last_updated": "2025-08-21"
+  "last_updated": "2025-08-22"
 }
