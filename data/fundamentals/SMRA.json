@@ -1,13 +1,13 @@
 {
   "kode": "SMRA",
-  "market_cap": 7825076518912,
-  "eps": 70.9,
-  "per": 6.6854725,
-  "pbv": 0.6933636,
+  "market_cap": 7659990286336,
+  "eps": 70.86,
+  "per": 6.548123,
+  "pbv": 0.6787357,
   "roe": null,
   "der": null,
-  "dividen_yield": 197.0,
-  "harga": 474.0,
+  "dividen_yield": 190.0,
+  "harga": 464.0,
   "saham_beredar": 16508600320,
-  "last_updated": "2025-08-25"
+  "last_updated": "2025-08-26"
 }
