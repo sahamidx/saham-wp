@@ -1,13 +1,13 @@
 {
   "kode": "EXCL",
-  "market_cap": 53704464007168,
-  "eps": 126.87,
-  "per": 23.330969,
-  "pbv": 1.5278137,
+  "market_cap": 50075782873088,
+  "eps": 126.98,
+  "per": 21.735706,
+  "pbv": 1.424583,
   "roe": null,
   "der": null,
-  "dividen_yield": 292.0,
-  "harga": 2960.0,
+  "dividen_yield": 290.0,
+  "harga": 2760.0,
   "saham_beredar": 18143399936,
-  "last_updated": "2025-08-26"
+  "last_updated": "2025-08-27"
 }
