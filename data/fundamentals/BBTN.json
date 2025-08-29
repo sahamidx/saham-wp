@@ -1,13 +1,13 @@
 {
   "kode": "BBTN",
-  "market_cap": 18314891886592,
-  "eps": 217.0,
-  "per": 6.013825,
-  "pbv": 0.54610485,
+  "market_cap": 18244721180672,
+  "eps": 217.02,
+  "per": 5.990231,
+  "pbv": 0.54401255,
   "roe": null,
   "der": null,
-  "dividen_yield": 432.0,
-  "harga": 1305.0,
+  "dividen_yield": 411.0,
+  "harga": 1300.0,
   "saham_beredar": 14034400256,
-  "last_updated": "2025-08-28"
+  "last_updated": "2025-08-29"
 }
