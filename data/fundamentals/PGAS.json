@@ -1,13 +1,13 @@
 {
   "kode": "PGAS",
-  "market_cap": 42907457290240,
-  "eps": 197.45,
-  "per": 8.964294,
-  "pbv": 16090.909,
+  "market_cap": 42301418110976,
+  "eps": 197.18,
+  "per": 8.849782,
+  "pbv": 15863.637,
   "roe": null,
   "der": null,
-  "dividen_yield": 1014.0,
-  "harga": 1770.0,
+  "dividen_yield": 1029.0,
+  "harga": 1745.0,
   "saham_beredar": 24241500160,
-  "last_updated": "2025-09-15"
+  "last_updated": "2025-09-16"
 }
