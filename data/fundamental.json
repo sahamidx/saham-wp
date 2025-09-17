@@ -14,7 +14,7 @@
   },
   {
     "kode": "ADMR",
-    "market_cap": 41904355934208,
+    "market_cap": 41904389488640,
     "eps": 131.27,
     "per": 7.808334,
     "pbv": 28472.223,
@@ -22,12 +22,12 @@
     "der": null,
     "dividen_yield": 469.0,
     "harga": 1025.0,
-    "saham_beredar": 40882298880,
+    "saham_beredar": 40882331500,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "ADRO",
-    "market_cap": 49227744935936,
+    "market_cap": 49227728158720,
     "eps": 251.46,
     "per": 6.661099,
     "pbv": 10806.451,
@@ -35,12 +35,12 @@
     "der": null,
     "dividen_yield": 1656.0,
     "harga": 1675.0,
-    "saham_beredar": 29389699072,
+    "saham_beredar": 29389689400,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "AKRA",
-    "market_cap": 24592236150784,
+    "market_cap": 24592259219456,
     "eps": 121.64,
     "per": 10.23512,
     "pbv": 2.0918956,
@@ -48,12 +48,12 @@
     "der": null,
     "dividen_yield": 806.0,
     "harga": 1245.0,
-    "saham_beredar": 19752800256,
+    "saham_beredar": 19752819600,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "AMMN",
-    "market_cap": 583771485110272,
+    "market_cap": 583771619328000,
     "eps": 7.22,
     "per": 1114.9585,
     "pbv": 116666.67,
@@ -61,7 +61,7 @@
     "der": null,
     "dividen_yield": 0,
     "harga": 8050.0,
-    "saham_beredar": 72518197248,
+    "saham_beredar": 72518217656,
     "last_updated": "2025-09-17"
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "kode": "ANTM",
-    "market_cap": 83146565484544,
+    "market_cap": 83146448044032,
     "eps": 282.6,
     "per": 12.243453,
     "pbv": 4.086936,
@@ -87,12 +87,12 @@
     "der": null,
     "dividen_yield": 422.0,
     "harga": 3460.0,
-    "saham_beredar": 24030799872,
+    "saham_beredar": 24030764724,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "ARTO",
-    "market_cap": 31603763970048,
+    "market_cap": 31603835273216,
     "eps": 14.69,
     "per": 155.20763,
     "pbv": 3.6475217,
@@ -100,7 +100,7 @@
     "der": null,
     "dividen_yield": 0,
     "harga": 2280.0,
-    "saham_beredar": 13861300224,
+    "saham_beredar": 13861330900,
     "last_updated": "2025-09-17"
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "kode": "BBTN",
-    "market_cap": 19507816955904,
+    "market_cap": 19507877773312,
     "eps": 229.05,
     "per": 6.068544,
     "pbv": 0.5750127,
@@ -165,7 +165,7 @@
     "der": null,
     "dividen_yield": 398.0,
     "harga": 1390.0,
-    "saham_beredar": 14034400256,
+    "saham_beredar": 14034444412,
     "last_updated": "2025-09-17"
   },
   {
@@ -183,7 +183,7 @@
   },
   {
     "kode": "BRIS",
-    "market_cap": 122242646147072,
+    "market_cap": 122242537095168,
     "eps": 155.5,
     "per": 17.041801,
     "pbv": 2.6055083,
@@ -191,12 +191,12 @@
     "der": null,
     "dividen_yield": 86.0,
     "harga": 2650.0,
-    "saham_beredar": 46129299456,
+    "saham_beredar": 46129260138,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "BRPT",
-    "market_cap": 232386906292224,
+    "market_cap": 232387023732736,
     "eps": 98.37,
     "per": 25.210938,
     "pbv": 103333.336,
@@ -204,7 +204,7 @@
     "der": null,
     "dividen_yield": 5.0,
     "harga": 2480.0,
-    "saham_beredar": 93704396800,
+    "saham_beredar": 93704446229,
     "last_updated": "2025-09-17"
   },
   {
@@ -217,12 +217,12 @@
     "der": null,
     "dividen_yield": 225.0,
     "harga": 4860.0,
-    "saham_beredar": 16398000128,
+    "saham_beredar": 16398000000,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "CTRA",
-    "market_cap": 18257664802816,
+    "market_cap": 18257658511360,
     "eps": 125.97,
     "per": 7.819322,
     "pbv": 0.8059831,
@@ -230,12 +230,12 @@
     "der": null,
     "dividen_yield": 246.0,
     "harga": 985.0,
-    "saham_beredar": 18535700480,
+    "saham_beredar": 18535695255,
     "last_updated": "2025-09-17"
   },
   {
     "kode": "ESSA",
-    "market_cap": 11369819668480,
+    "market_cap": 11369803939840,
     "eps": 37.6,
     "per": 17.553192,
     "pbv": 27500.0,
@@ -243,7 +243,7 @@
     "der": null,
     "dividen_yield": 153.0,
     "harga": 660.0,
-    "saham_beredar": 17226999808,
+    "saham_beredar": 17226975700,
     "last_updated": "2025-09-17"
   },
   {
@@ -365,7 +365,7 @@
   },
   {
     "kode": "JSMR",
-    "market_cap": 25692859269120,
+    "market_cap": 25692865560576,
     "eps": 559.3,
     "per": 6.3293405,
     "pbv": 0.738679,
@@ -373,7 +373,7 @@
     "der": null,
     "dividen_yield": 446.0,
     "harga": 3540.0,
-    "saham_beredar": 7257869824,
+    "saham_beredar": 7257871199,
     "last_updated": "2025-09-17"
   },
   {
@@ -399,7 +399,7 @@
     "der": null,
     "dividen_yield": 70.0,
     "harga": 580.0,
-    "saham_beredar": 28504000512,
+    "saham_beredar": 28504000000,
     "last_updated": "2025-09-17"
   },
   {
@@ -417,7 +417,7 @@
   },
   {
     "kode": "MBMA",
-    "market_cap": 51837600268288,
+    "market_cap": 51837801594880,
     "eps": 2.46,
     "per": 195.12195,
     "pbv": 34285.715,
@@ -425,7 +425,7 @@
     "der": null,
     "dividen_yield": 0,
     "harga": 480.0,
-    "saham_beredar": 107994996736,
+    "saham_beredar": 107995419900,
     "last_updated": "2025-09-17"
   },
   {
@@ -469,7 +469,7 @@
   },
   {
     "kode": "PGEO",
-    "market_cap": 56006641975296,
+    "market_cap": 56006587449344,
     "eps": 50.86,
     "per": 26.346834,
     "pbv": 28510.639,
@@ -477,7 +477,7 @@
     "der": null,
     "dividen_yield": 390.0,
     "harga": 1340.0,
-    "saham_beredar": 41796001792,
+    "saham_beredar": 41795958845,
     "last_updated": "2025-09-17"
   },
   {
@@ -503,7 +503,7 @@
     "der": null,
     "dividen_yield": 764.0,
     "harga": 545.0,
-    "saham_beredar": 29782499328,
+    "saham_beredar": 29782500000,
     "last_updated": "2025-09-17"
   },
   {
@@ -521,7 +521,7 @@
   },
   {
     "kode": "SMRA",
-    "market_cap": 7659990286336,
+    "market_cap": 7659975606272,
     "eps": 68.06,
     "per": 6.8175144,
     "pbv": 0.6718572,
@@ -529,7 +529,7 @@
     "der": null,
     "dividen_yield": 197.0,
     "harga": 464.0,
-    "saham_beredar": 16508600320,
+    "saham_beredar": 16508568358,
     "last_updated": "2025-09-17"
   },
   {
