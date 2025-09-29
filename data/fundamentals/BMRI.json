@@ -1,13 +1,13 @@
 {
   "kode": "BMRI",
-  "market_cap": 412533320056832,
-  "eps": 575.08,
-  "per": 7.685887,
-  "pbv": 1.5460606,
+  "market_cap": 410666653450240,
+  "eps": 575.04,
+  "per": 7.651642,
+  "pbv": 1.5390649,
   "roe": null,
   "der": null,
-  "dividen_yield": 1069.0,
-  "harga": 4420.0,
+  "dividen_yield": 1055.0,
+  "harga": 4400.0,
   "saham_beredar": 93333333331,
-  "last_updated": "2025-09-26"
+  "last_updated": "2025-09-29"
 }
