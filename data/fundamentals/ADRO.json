@@ -1,13 +1,13 @@
 {
   "kode": "ADRO",
-  "market_cap": 50109421191168,
-  "eps": 254.09,
-  "per": 6.710221,
-  "pbv": 11000.0,
+  "market_cap": 49374675599360,
+  "eps": 254.56,
+  "per": 6.5996227,
+  "pbv": 10838.71,
   "roe": null,
   "der": null,
-  "dividen_yield": 1584.0,
-  "harga": 1705.0,
+  "dividen_yield": 1602.0,
+  "harga": 1680.0,
   "saham_beredar": 29389689400,
-  "last_updated": "2025-10-14"
+  "last_updated": "2025-10-15"
 }
