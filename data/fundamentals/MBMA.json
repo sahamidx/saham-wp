@@ -1,13 +1,13 @@
 {
   "kode": "MBMA",
-  "market_cap": 59397480906752,
-  "eps": 1.19,
-  "per": 462.18484,
-  "pbv": 39285.715,
+  "market_cap": 62637345865728,
+  "eps": 1.16,
+  "per": 500.0,
+  "pbv": 41428.57,
   "roe": null,
   "der": null,
   "dividen_yield": 0,
-  "harga": 550.0,
+  "harga": 580.0,
   "saham_beredar": 107995419900,
-  "last_updated": "2025-10-17"
+  "last_updated": "2025-10-20"
 }
