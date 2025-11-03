@@ -1,13 +1,13 @@
 {
   "kode": "CTRA",
-  "market_cap": 16404089667584,
-  "eps": 126.04,
-  "per": 7.02158,
-  "pbv": 0.7241574,
+  "market_cap": 16589446447104,
+  "eps": 126.02,
+  "per": 7.1020474,
+  "pbv": 0.75884753,
   "roe": null,
   "der": null,
-  "dividen_yield": 264.0,
-  "harga": 885.0,
+  "dividen_yield": 271.0,
+  "harga": 895.0,
   "saham_beredar": 18535695255,
-  "last_updated": "2025-10-31"
+  "last_updated": "2025-11-03"
 }
