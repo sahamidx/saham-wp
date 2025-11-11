@@ -1,13 +1,13 @@
 {
   "kode": "MAPA",
-  "market_cap": 22375640858624,
-  "eps": 49.97,
-  "per": 15.709425,
-  "pbv": 2.7493021,
+  "market_cap": 21948079800320,
+  "eps": 50.0,
+  "per": 15.4,
+  "pbv": 2.6967676,
   "roe": null,
   "der": null,
-  "dividen_yield": 52.0,
-  "harga": 785.0,
+  "dividen_yield": 51.0,
+  "harga": 770.0,
   "saham_beredar": 28504000000,
-  "last_updated": "2025-11-10"
+  "last_updated": "2025-11-11"
 }
