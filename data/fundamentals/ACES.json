@@ -1,13 +1,13 @@
 {
   "kode": "ACES",
-  "market_cap": 7305899802624,
-  "eps": 46.44,
-  "per": 9.173127,
-  "pbv": 1.1436579,
+  "market_cap": 7271599833088,
+  "eps": 46.43,
+  "per": 9.132027,
+  "pbv": 1.1382886,
   "roe": null,
   "der": null,
-  "dividen_yield": 788.0,
-  "harga": 426.0,
+  "dividen_yield": 795.0,
+  "harga": 424.0,
   "saham_beredar": 17150000000,
-  "last_updated": "2025-11-20"
+  "last_updated": "2025-11-21"
 }
