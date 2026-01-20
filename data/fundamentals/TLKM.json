@@ -1,13 +1,13 @@
 {
   "kode": "TLKM",
-  "market_cap": 358605240926208,
-  "eps": 219.23,
-  "per": 16.512339,
-  "pbv": 2.614857,
+  "market_cap": 356623985934336,
+  "eps": 219.37,
+  "per": 16.410631,
+  "pbv": 2.6004102,
   "roe": null,
   "der": null,
-  "dividen_yield": 581.0,
-  "harga": 3620.0,
+  "dividen_yield": 587.0,
+  "harga": 3600.0,
   "saham_beredar": 99062216599,
-  "last_updated": "2026-01-19"
+  "last_updated": "2026-01-20"
 }
