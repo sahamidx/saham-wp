@@ -1,13 +1,13 @@
 {
   "kode": "JPFA",
-  "market_cap": 31976090238976,
-  "eps": 287.14,
-  "per": 9.577209,
-  "pbv": 1.8800642,
+  "market_cap": 30231941349376,
+  "eps": 287.1,
+  "per": 9.056078,
+  "pbv": 1.7775153,
   "roe": null,
   "der": null,
-  "dividen_yield": 486.0,
-  "harga": 2750.0,
+  "dividen_yield": 509.0,
+  "harga": 2600.0,
   "saham_beredar": 8716079901,
-  "last_updated": "2026-01-28"
+  "last_updated": "2026-01-29"
 }
