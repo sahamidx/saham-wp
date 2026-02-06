@@ -1,13 +1,13 @@
 {
   "kode": "PTBA",
-  "market_cap": 29822183014400,
-  "eps": 284.07,
-  "per": 9.117471,
-  "pbv": 1.4432403,
+  "market_cap": 29361610686464,
+  "eps": 284.12,
+  "per": 8.975081,
+  "pbv": 1.4209509,
   "roe": null,
   "der": null,
-  "dividen_yield": 1304.0,
-  "harga": 2590.0,
+  "dividen_yield": 1284.0,
+  "harga": 2550.0,
   "saham_beredar": 11514357245,
-  "last_updated": "2026-02-05"
+  "last_updated": "2026-02-06"
 }
