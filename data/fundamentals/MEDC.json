@@ -1,13 +1,13 @@
 {
   "kode": "MEDC",
-  "market_cap": 41591066591232,
-  "eps": 119.72,
-  "per": 14.074507,
-  "pbv": 19147.727,
+  "market_cap": 42701810565120,
+  "eps": 119.47,
+  "per": 14.480622,
+  "pbv": 19659.092,
   "roe": null,
   "der": null,
-  "dividen_yield": 329.0,
-  "harga": 1685.0,
+  "dividen_yield": 338.0,
+  "harga": 1730.0,
   "saham_beredar": 24683125994,
-  "last_updated": "2026-02-24"
+  "last_updated": "2026-02-25"
 }

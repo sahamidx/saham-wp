@@ -1,13 +1,13 @@
 {
   "kode": "KLBF",
-  "market_cap": 48116808024064,
-  "eps": 76.57,
-  "per": 13.843542,
-  "pbv": 2.090668,
+  "market_cap": 50613433925632,
+  "eps": 76.64,
+  "per": 14.548539,
+  "pbv": 2.199146,
   "roe": null,
   "der": null,
-  "dividen_yield": 333.0,
-  "harga": 1060.0,
+  "dividen_yield": 340.0,
+  "harga": 1115.0,
   "saham_beredar": 45315950110,
-  "last_updated": "2026-02-24"
+  "last_updated": "2026-02-25"
 }
