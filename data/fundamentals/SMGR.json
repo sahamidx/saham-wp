@@ -1,13 +1,13 @@
 {
   "kode": "SMGR",
-  "market_cap": 18364189638656,
-  "eps": 16.96,
-  "per": 160.37737,
-  "pbv": 0.42376444,
+  "market_cap": 16878850277376,
+  "eps": 17.14,
+  "per": 145.85765,
+  "pbv": 0.38948938,
   "roe": null,
   "der": null,
-  "dividen_yield": 346.0,
-  "harga": 2720.0,
+  "dividen_yield": 354.0,
+  "harga": 2500.0,
   "saham_beredar": 6751540089,
-  "last_updated": "2026-03-03"
+  "last_updated": "2026-03-04"
 }
