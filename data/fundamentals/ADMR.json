@@ -1,13 +1,13 @@
 {
   "kode": "ADMR",
-  "market_cap": 82582305767424,
-  "eps": 128.24,
-  "per": 15.751715,
-  "pbv": 54594.594,
+  "market_cap": 80947013746688,
+  "eps": 128.47,
+  "per": 15.412158,
+  "pbv": 53513.51,
   "roe": null,
   "der": null,
-  "dividen_yield": 238.0,
-  "harga": 2020.0,
+  "dividen_yield": 237.0,
+  "harga": 1980.0,
   "saham_beredar": 40882331500,
-  "last_updated": "2026-03-05"
+  "last_updated": "2026-03-06"
 }
