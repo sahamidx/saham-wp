@@ -1,13 +1,13 @@
 {
   "kode": "INDF",
-  "market_cap": 55097174261760,
-  "eps": 883.95,
-  "per": 7.098818,
-  "pbv": 0.7841676,
+  "market_cap": 53121577385984,
+  "eps": 884.15,
+  "per": 6.84273,
+  "pbv": 0.75605,
   "roe": null,
   "der": null,
-  "dividen_yield": 450.0,
-  "harga": 6275.0,
+  "dividen_yield": 446.0,
+  "harga": 6050.0,
   "saham_beredar": 8780426500,
-  "last_updated": "2026-03-06"
+  "last_updated": "2026-03-09"
 }
