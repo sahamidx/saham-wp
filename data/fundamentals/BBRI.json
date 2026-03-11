@@ -1,13 +1,13 @@
 {
   "kode": "BBRI",
-  "market_cap": 539550032068608,
-  "eps": 375.92,
-  "per": 9.470099,
-  "pbv": 1.6545719,
+  "market_cap": 542581205237760,
+  "eps": 375.94,
+  "per": 9.522796,
+  "pbv": 1.6638672,
   "roe": null,
   "der": null,
-  "dividen_yield": 968.0,
-  "harga": 3560.0,
+  "dividen_yield": 970.0,
+  "harga": 3580.0,
   "saham_beredar": 151559001603,
-  "last_updated": "2026-03-10"
+  "last_updated": "2026-03-11"
 }
