@@ -1,13 +1,13 @@
 {
   "kode": "TOWR",
-  "market_cap": 29105791696896,
-  "eps": 67.02,
-  "per": 7.4604597,
-  "pbv": 1.0790955,
+  "market_cap": 28989368303616,
+  "eps": 67.0,
+  "per": 7.432836,
+  "pbv": 1.0747792,
   "roe": null,
   "der": null,
-  "dividen_yield": 351.0,
-  "harga": 500.0,
+  "dividen_yield": 335.0,
+  "harga": 498.0,
   "saham_beredar": 58211582377,
-  "last_updated": "2026-03-25"
+  "last_updated": "2026-03-26"
 }
