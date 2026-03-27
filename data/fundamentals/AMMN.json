@@ -1,13 +1,13 @@
 {
   "kode": "AMMN",
-  "market_cap": 355339253841920,
-  "eps": -62.0,
-  "per": null,
-  "pbv": 72058.82,
+  "market_cap": 351713328365568,
+  "eps": 63.7,
+  "per": 76.138145,
+  "pbv": 65540.54,
   "roe": null,
   "der": null,
   "dividen_yield": 0,
-  "harga": 4900.0,
+  "harga": 4850.0,
   "saham_beredar": 72518217656,
-  "last_updated": "2026-03-26"
+  "last_updated": "2026-03-27"
 }
