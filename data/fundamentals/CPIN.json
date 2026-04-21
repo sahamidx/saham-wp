@@ -1,13 +1,13 @@
 {
   "kode": "CPIN",
-  "market_cap": 73463041622016,
-  "eps": 343.83,
-  "per": 13.0296955,
-  "pbv": 2.152046,
+  "market_cap": 73791002640384,
+  "eps": 344.06,
+  "per": 13.079114,
+  "pbv": 2.1616533,
   "roe": null,
   "der": null,
-  "dividen_yield": 238.0,
-  "harga": 4480.0,
+  "dividen_yield": 241.0,
+  "harga": 4500.0,
   "saham_beredar": 16398000000,
-  "last_updated": "2026-04-20"
+  "last_updated": "2026-04-21"
 }
