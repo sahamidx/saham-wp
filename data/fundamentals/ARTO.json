@@ -1,13 +1,13 @@
 {
   "kode": "ARTO",
-  "market_cap": 19752397307904,
-  "eps": 21.25,
-  "per": 67.05882,
-  "pbv": 2.2148998,
+  "market_cap": 18089037004800,
+  "eps": 21.23,
+  "per": 61.46962,
+  "pbv": 2.0283818,
   "roe": null,
   "der": null,
   "dividen_yield": 0,
-  "harga": 1425.0,
+  "harga": 1305.0,
   "saham_beredar": 13861330900,
-  "last_updated": "2026-04-29"
+  "last_updated": "2026-04-30"
 }
