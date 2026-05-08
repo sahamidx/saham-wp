@@ -1,13 +1,13 @@
 {
   "kode": "ICBP",
-  "market_cap": 83674192150528,
-  "eps": 784.04,
-  "per": 9.1513195,
-  "pbv": 1.6241189,
+  "market_cap": 82216453406720,
+  "eps": 784.23,
+  "per": 8.98971,
+  "pbv": 1.5958242,
   "roe": null,
   "der": null,
-  "dividen_yield": 368.0,
-  "harga": 7175.0,
+  "dividen_yield": 348.0,
+  "harga": 7050.0,
   "saham_beredar": 11661908000,
-  "last_updated": "2026-05-07"
+  "last_updated": "2026-05-08"
 }
