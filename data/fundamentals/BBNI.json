@@ -1,13 +1,13 @@
 {
   "kode": "BBNI",
-  "market_cap": 145674083500032,
-  "eps": 545.11,
-  "per": 7.1728644,
-  "pbv": 0.8482733,
+  "market_cap": 144183813734400,
+  "eps": 545.05,
+  "per": 7.100266,
+  "pbv": 0.83959526,
   "roe": null,
   "der": null,
-  "dividen_yield": 915.0,
-  "harga": 3910.0,
+  "dividen_yield": 894.0,
+  "harga": 3870.0,
   "saham_beredar": 578683733,
-  "last_updated": "2026-05-12"
+  "last_updated": "2026-05-13"
 }
