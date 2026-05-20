@@ -1,13 +1,13 @@
 {
   "kode": "INCO",
-  "market_cap": 52171932434432,
-  "eps": 162.11,
-  "per": 30.534822,
-  "pbv": 18821.291,
+  "market_cap": 50907156840448,
+  "eps": 161.87,
+  "per": 29.83876,
+  "pbv": 18365.018,
   "roe": null,
   "der": null,
-  "dividen_yield": 100.0,
-  "harga": 4950.0,
+  "dividen_yield": 108.0,
+  "harga": 4830.0,
   "saham_beredar": 10539784534,
-  "last_updated": "2026-05-19"
+  "last_updated": "2026-05-20"
 }
