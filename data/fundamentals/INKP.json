@@ -1,13 +1,13 @@
 {
   "kode": "INKP",
-  "market_cap": 42947219292160,
-  "eps": 1527.66,
-  "per": 5.138578,
-  "pbv": 6137.6074,
+  "market_cap": 42536894726144,
+  "eps": null,
+  "per": 5.1185665,
+  "pbv": 6078.968,
   "roe": null,
   "der": null,
-  "dividen_yield": 62.0,
-  "harga": 7850.0,
+  "dividen_yield": 64.0,
+  "harga": 7775.0,
   "saham_beredar": 5470982941,
-  "last_updated": "2026-05-25"
+  "last_updated": "2026-05-26"
 }
