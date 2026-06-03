@@ -1,13 +1,13 @@
 {
   "kode": "AKRA",
-  "market_cap": 25343704432640,
-  "eps": 129.8,
-  "per": 9.861325,
-  "pbv": 1.9762784,
+  "market_cap": 23858721587200,
+  "eps": 129.92,
+  "per": 9.274939,
+  "pbv": 1.8604809,
   "roe": null,
   "der": null,
-  "dividen_yield": 810.0,
-  "harga": 1280.0,
+  "dividen_yield": 781.0,
+  "harga": 1205.0,
   "saham_beredar": 19799769600,
-  "last_updated": "2026-06-02"
+  "last_updated": "2026-06-03"
 }

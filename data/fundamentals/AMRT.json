@@ -1,13 +1,13 @@
 {
   "kode": "AMRT",
-  "market_cap": 56706730033152,
-  "eps": 84.76,
-  "per": 16.281265,
-  "pbv": 3.068153,
+  "market_cap": 55473973755904,
+  "eps": 84.73,
+  "per": 15.932963,
+  "pbv": 3.0014539,
   "roe": null,
   "der": null,
-  "dividen_yield": 297.0,
-  "harga": 1380.0,
+  "dividen_yield": 247.0,
+  "harga": 1350.0,
   "saham_beredar": 41091832700,
-  "last_updated": "2026-06-02"
+  "last_updated": "2026-06-03"
 }
