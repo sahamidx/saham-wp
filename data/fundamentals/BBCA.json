@@ -1,13 +1,13 @@
 {
   "kode": "BBCA",
-  "market_cap": 666603620401152,
-  "eps": 470.73,
-  "per": 11.5246525,
-  "pbv": 2.5724447,
+  "market_cap": 623596904906752,
+  "eps": 470.89,
+  "per": 10.777464,
+  "pbv": 2.4064806,
   "roe": null,
   "der": null,
-  "dividen_yield": 608.0,
-  "harga": 5425.0,
+  "dividen_yield": 619.0,
+  "harga": 5075.0,
   "saham_beredar": 122876240600,
-  "last_updated": "2026-06-04"
+  "last_updated": "2026-06-05"
 }
