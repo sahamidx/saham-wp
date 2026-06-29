@@ -1,13 +1,13 @@
 {
   "kode": "ISAT",
-  "market_cap": 56438919528448,
-  "eps": 175.0,
-  "per": 10.0,
-  "pbv": 1.4925959,
+  "market_cap": 56116411105280,
+  "eps": 176.4,
+  "per": 9.863946,
+  "pbv": 1.4840667,
   "roe": null,
   "der": null,
-  "dividen_yield": 629.0,
-  "harga": 1750.0,
+  "dividen_yield": 634.0,
+  "harga": 1740.0,
   "saham_beredar": 32250810956,
-  "last_updated": "2026-06-26"
+  "last_updated": "2026-06-29"
 }
