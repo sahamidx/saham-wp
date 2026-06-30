@@ -4,7 +4,7 @@
     "market_cap": 5581247086592,
     "eps": 40.24,
     "per": 8.101391,
-    "pbv": 0.83673847,
+    "pbv": 0.8348506,
     "roe": null,
     "der": null,
     "dividen_yield": 964.0,
@@ -514,7 +514,7 @@
     "pbv": 0.2188609,
     "roe": null,
     "der": null,
-    "dividen_yield": 190.0,
+    "dividen_yield": 0,
     "harga": 1415.0,
     "saham_beredar": 6735544089,
     "last_updated": "2026-06-30"
@@ -527,7 +527,7 @@
     "pbv": 0.37919235,
     "roe": null,
     "der": null,
-    "dividen_yield": 182.0,
+    "dividen_yield": 0,
     "harga": 272.0,
     "saham_beredar": 16508568358,
     "last_updated": "2026-06-30"
@@ -566,7 +566,7 @@
     "pbv": 0.8557379,
     "roe": null,
     "der": null,
-    "dividen_yield": 971.0,
+    "dividen_yield": 0,
     "harga": 23000.0,
     "saham_beredar": 3526906636,
     "last_updated": "2026-06-30"
