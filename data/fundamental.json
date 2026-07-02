@@ -20,7 +20,7 @@
     "pbv": 34500.0,
     "roe": null,
     "der": null,
-    "dividen_yield": 367.0,
+    "dividen_yield": 0,
     "harga": 1380.0,
     "saham_beredar": 40882331500,
     "last_updated": "2026-07-02"
@@ -33,7 +33,7 @@
     "pbv": 13411.765,
     "roe": null,
     "der": null,
-    "dividen_yield": 1047.0,
+    "dividen_yield": 0,
     "harga": 2280.0,
     "saham_beredar": 28800494200,
     "last_updated": "2026-07-02"
@@ -124,7 +124,7 @@
     "pbv": 2.7502635,
     "roe": null,
     "der": null,
-    "dividen_yield": 636.0,
+    "dividen_yield": 0,
     "harga": 5800.0,
     "saham_beredar": 122876240600,
     "last_updated": "2026-07-02"
@@ -163,7 +163,7 @@
     "pbv": 0.41604388,
     "roe": null,
     "der": null,
-    "dividen_yield": 398.0,
+    "dividen_yield": 0,
     "harga": 1090.0,
     "saham_beredar": 14034444412,
     "last_updated": "2026-07-02"
@@ -176,7 +176,7 @@
     "pbv": 1.1924458,
     "roe": null,
     "der": null,
-    "dividen_yield": 1252.0,
+    "dividen_yield": 0,
     "harga": 3900.0,
     "saham_beredar": 93333333331,
     "last_updated": "2026-07-02"
@@ -189,7 +189,7 @@
     "pbv": 1.535547,
     "roe": null,
     "der": null,
-    "dividen_yield": 197.0,
+    "dividen_yield": 0,
     "harga": 1690.0,
     "saham_beredar": 46129260138,
     "last_updated": "2026-07-02"
@@ -215,7 +215,7 @@
     "pbv": 1.3889658,
     "roe": null,
     "der": null,
-    "dividen_yield": 568.0,
+    "dividen_yield": 0,
     "harga": 3110.0,
     "saham_beredar": 16398000000,
     "last_updated": "2026-07-02"
@@ -306,7 +306,7 @@
     "pbv": 0.7694067,
     "roe": null,
     "der": null,
-    "dividen_yield": 424.0,
+    "dividen_yield": 0,
     "harga": 6775.0,
     "saham_beredar": 8780426500,
     "last_updated": "2026-07-02"
@@ -345,7 +345,7 @@
     "pbv": 13066.86,
     "roe": null,
     "der": null,
-    "dividen_yield": 774.0,
+    "dividen_yield": 0,
     "harga": 22475.0,
     "saham_beredar": 1114899100,
     "last_updated": "2026-07-02"
@@ -410,7 +410,7 @@
     "pbv": 1.7221454,
     "roe": null,
     "der": null,
-    "dividen_yield": 66.0,
+    "dividen_yield": 0,
     "harga": 1520.0,
     "saham_beredar": 16600000000,
     "last_updated": "2026-07-02"
@@ -475,7 +475,7 @@
     "pbv": 17500.0,
     "roe": null,
     "der": null,
-    "dividen_yield": 565.0,
+    "dividen_yield": 0,
     "harga": 875.0,
     "saham_beredar": 41899535623,
     "last_updated": "2026-07-02"
@@ -540,7 +540,7 @@
     "pbv": 1.8010336,
     "roe": null,
     "der": null,
-    "dividen_yield": 915.0,
+    "dividen_yield": 0,
     "harga": 2450.0,
     "saham_beredar": 98699528999,
     "last_updated": "2026-07-02"
@@ -553,7 +553,7 @@
     "pbv": 0.8028471,
     "roe": null,
     "der": null,
-    "dividen_yield": 387.0,
+    "dividen_yield": 0,
     "harga": 372.0,
     "saham_beredar": 58211582377,
     "last_updated": "2026-07-02"
