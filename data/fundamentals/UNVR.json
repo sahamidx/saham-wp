@@ -1,13 +1,13 @@
 {
   "kode": "UNVR",
-  "market_cap": 65707534450688,
-  "eps": 97.07,
-  "per": 17.82219,
-  "pbv": 10.016501,
+  "market_cap": 63808471040000,
+  "eps": 97.05,
+  "per": 17.310663,
+  "pbv": 9.727007,
   "roe": null,
   "der": null,
-  "dividen_yield": 1329.0,
-  "harga": 1730.0,
+  "dividen_yield": 1318.0,
+  "harga": 1680.0,
   "saham_beredar": 37981233300,
-  "last_updated": "2026-07-10"
+  "last_updated": "2026-07-13"
 }
