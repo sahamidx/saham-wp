@@ -1,13 +1,13 @@
 {
   "kode": "BRIS",
-  "market_cap": 80726200418304,
-  "eps": 170.92,
-  "per": 10.2387085,
-  "pbv": 1.5900636,
+  "market_cap": 80034266087424,
+  "eps": 170.98,
+  "per": 10.147386,
+  "pbv": 1.5764344,
   "roe": null,
   "der": null,
-  "dividen_yield": 190.0,
-  "harga": 1750.0,
+  "dividen_yield": 187.0,
+  "harga": 1735.0,
   "saham_beredar": 46129260138,
-  "last_updated": "2026-07-13"
+  "last_updated": "2026-07-14"
 }
