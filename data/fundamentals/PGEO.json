@@ -1,13 +1,13 @@
 {
   "kode": "PGEO",
-  "market_cap": 42318530871296,
-  "eps": 63.01,
-  "per": 16.029202,
-  "pbv": 20200.0,
+  "market_cap": 42109033775104,
+  "eps": 63.02,
+  "per": 15.947318,
+  "pbv": 20100.0,
   "roe": null,
   "der": null,
-  "dividen_yield": 473.0,
-  "harga": 1010.0,
+  "dividen_yield": 490.0,
+  "harga": 1005.0,
   "saham_beredar": 41899535623,
-  "last_updated": "2026-07-14"
+  "last_updated": "2026-07-15"
 }
