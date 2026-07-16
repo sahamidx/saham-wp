@@ -1,13 +1,13 @@
 {
   "kode": "ESSA",
-  "market_cap": 10508455378944,
-  "eps": 53.24,
-  "per": 11.45755,
-  "pbv": 22592.592,
+  "market_cap": 10250050600960,
+  "eps": 53.25,
+  "per": 11.173709,
+  "pbv": 22037.037,
   "roe": null,
   "der": null,
-  "dividen_yield": 897.0,
-  "harga": 610.0,
+  "dividen_yield": 852.0,
+  "harga": 595.0,
   "saham_beredar": 17226975700,
-  "last_updated": "2026-07-15"
+  "last_updated": "2026-07-16"
 }
