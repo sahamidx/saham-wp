@@ -1,13 +1,13 @@
 {
   "kode": "ANTM",
-  "market_cap": 72092292743168,
-  "eps": 353.05,
-  "per": 8.49738,
-  "pbv": 1.8558006,
+  "market_cap": 73534143463424,
+  "eps": 353.1,
+  "per": 8.6661005,
+  "pbv": 1.8929167,
   "roe": null,
   "der": null,
-  "dividen_yield": 684.0,
-  "harga": 3000.0,
+  "dividen_yield": 700.0,
+  "harga": 3060.0,
   "saham_beredar": 24030764724,
-  "last_updated": "2026-07-20"
+  "last_updated": "2026-07-21"
 }
