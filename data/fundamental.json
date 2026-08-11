@@ -118,7 +118,7 @@
   },
   {
     "kode": "BBCA",
-    "market_cap": 773903043526656,
+    "market_cap": 774120342028288,
     "eps": 471.75,
     "per": 13.354531,
     "pbv": 2.8616698,
@@ -126,12 +126,12 @@
     "der": null,
     "dividen_yield": 558.0,
     "harga": 6300.0,
-    "saham_beredar": 122841751300,
+    "saham_beredar": 122876240600,
     "last_updated": "2026-08-11"
   },
   {
     "kode": "BBNI",
-    "market_cap": 132261630443520,
+    "market_cap": 132129065271296,
     "eps": 555.17,
     "per": 6.394438,
     "pbv": 0.8157969,
@@ -139,7 +139,7 @@
     "der": null,
     "dividen_yield": 957.0,
     "harga": 3550.0,
-    "saham_beredar": 578683733,
+    "saham_beredar": 354899856,
     "last_updated": "2026-08-11"
   },
   {
@@ -170,7 +170,7 @@
   },
   {
     "kode": "BMRI",
-    "market_cap": 383050147954688,
+    "market_cap": 384533320957952,
     "eps": 667.13,
     "per": 6.175708,
     "pbv": 1.3511674,
@@ -178,7 +178,7 @@
     "der": null,
     "dividen_yield": 1141.0,
     "harga": 4120.0,
-    "saham_beredar": 92487999999,
+    "saham_beredar": 93333333331,
     "last_updated": "2026-08-11"
   },
   {
@@ -303,7 +303,7 @@
     "market_cap": 63877601558528,
     "eps": 1089.96,
     "per": 6.674557,
-    "pbv": 0.83324254,
+    "pbv": 0.82618946,
     "roe": null,
     "der": null,
     "dividen_yield": 396.0,
@@ -342,7 +342,7 @@
     "market_cap": 27510133751808,
     "eps": 2868.48,
     "per": 8.602117,
-    "pbv": 14345.93,
+    "pbv": 14670.035,
     "roe": null,
     "der": null,
     "dividen_yield": 695.0,
@@ -497,7 +497,7 @@
     "kode": "SIDO",
     "market_cap": 10361190219776,
     "eps": 32.6,
-    "per": 10.804173,
+    "per": 10.797546,
     "pbv": 3.4592896,
     "roe": null,
     "der": null,
