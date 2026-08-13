@@ -1,13 +1,13 @@
 {
   "kode": "BRPT",
-  "market_cap": 182737906434048,
-  "eps": 26.75,
-  "per": 72.897194,
-  "pbv": 75000.0,
+  "market_cap": 174772403044352,
+  "eps": 26.72,
+  "per": 69.797905,
+  "pbv": 71730.766,
   "roe": null,
   "der": null,
-  "dividen_yield": 9.0,
-  "harga": 1950.0,
+  "dividen_yield": 8.0,
+  "harga": 1865.0,
   "saham_beredar": 93711740929,
-  "last_updated": "2026-08-12"
+  "last_updated": "2026-08-13"
 }
