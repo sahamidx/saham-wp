@@ -118,7 +118,7 @@
   },
   {
     "kode": "BBCA",
-    "market_cap": 774120342028288,
+    "market_cap": 773903043526656,
     "eps": 471.81,
     "per": 13.352833,
     "pbv": 2.8616698,
@@ -126,12 +126,12 @@
     "der": null,
     "dividen_yield": 561.0,
     "harga": 6300.0,
-    "saham_beredar": 122876240600,
+    "saham_beredar": 122841751300,
     "last_updated": "2026-08-18"
   },
   {
     "kode": "BBNI",
-    "market_cap": 133617841864704,
+    "market_cap": 133751908597760,
     "eps": 555.03,
     "per": 6.4681187,
     "pbv": 0.81371576,
@@ -139,7 +139,7 @@
     "der": null,
     "dividen_yield": 963.0,
     "harga": 3590.0,
-    "saham_beredar": 354899856,
+    "saham_beredar": 578683733,
     "last_updated": "2026-08-18"
   },
   {
@@ -170,7 +170,7 @@
   },
   {
     "kode": "BMRI",
-    "market_cap": 387333337645056,
+    "market_cap": 385839326560256,
     "eps": 667.2,
     "per": 6.2200236,
     "pbv": 1.361006,
@@ -178,7 +178,7 @@
     "der": null,
     "dividen_yield": 1144.0,
     "harga": 4150.0,
-    "saham_beredar": 93333333331,
+    "saham_beredar": 92487999999,
     "last_updated": "2026-08-18"
   },
   {
@@ -339,7 +339,7 @@
   },
   {
     "kode": "ITMG",
-    "market_cap": 27291832811520,
+    "market_cap": 27593751396352,
     "eps": 3395.0,
     "per": 7.2901325,
     "pbv": 14364.48,
@@ -347,7 +347,7 @@
     "der": null,
     "dividen_yield": 692.0,
     "harga": 24750.0,
-    "saham_beredar": 1102700300,
+    "saham_beredar": 1114899100,
     "last_updated": "2026-08-18"
   },
   {
