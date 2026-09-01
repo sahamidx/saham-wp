@@ -33,7 +33,7 @@
     "pbv": 16352.941,
     "roe": null,
     "der": null,
-    "dividen_yield": 886.0,
+    "dividen_yield": 833.0,
     "harga": 2780.0,
     "saham_beredar": 28800494200,
     "last_updated": "2026-09-01"
@@ -41,12 +41,12 @@
   {
     "kode": "AKRA",
     "market_cap": 27719676985344,
-    "eps": 137.79,
-    "per": 10.16039,
+    "eps": 137.73,
+    "per": 10.164816,
     "pbv": 2.1391323,
     "roe": null,
     "der": null,
-    "dividen_yield": 733.0,
+    "dividen_yield": 687.0,
     "harga": 1400.0,
     "saham_beredar": 19799769600,
     "last_updated": "2026-09-01"
@@ -67,12 +67,12 @@
   {
     "kode": "AMRT",
     "market_cap": 55063057793024,
-    "eps": 85.97,
-    "per": 15.586832,
+    "eps": 86.03,
+    "per": 15.575962,
     "pbv": 3.093295,
     "roe": null,
     "der": null,
-    "dividen_yield": 310.0,
+    "dividen_yield": 311.0,
     "harga": 1340.0,
     "saham_beredar": 41091832700,
     "last_updated": "2026-09-01"
@@ -85,7 +85,7 @@
     "pbv": 1.9052886,
     "roe": null,
     "der": null,
-    "dividen_yield": 665.0,
+    "dividen_yield": 677.0,
     "harga": 3080.0,
     "saham_beredar": 24030764724,
     "last_updated": "2026-09-01"
@@ -93,8 +93,8 @@
   {
     "kode": "ARTO",
     "market_cap": 13722717257728,
-    "eps": 23.86,
-    "per": 41.492035,
+    "eps": 23.9,
+    "per": 41.422596,
     "pbv": 1.5202796,
     "roe": null,
     "der": null,
@@ -132,12 +132,12 @@
   {
     "kode": "BBNI",
     "market_cap": 144183813734400,
-    "eps": 555.07,
-    "per": 6.9720936,
+    "eps": 554.9,
+    "per": 6.9742293,
     "pbv": 0.87718105,
     "roe": null,
     "der": null,
-    "dividen_yield": 924.0,
+    "dividen_yield": 905.0,
     "harga": 3870.0,
     "saham_beredar": 578683733,
     "last_updated": "2026-09-01"
@@ -150,7 +150,7 @@
     "pbv": 1.5048432,
     "roe": null,
     "der": null,
-    "dividen_yield": 1310.0,
+    "dividen_yield": 1286.0,
     "harga": 3380.0,
     "saham_beredar": 150574927703,
     "last_updated": "2026-09-01"
@@ -171,12 +171,12 @@
   {
     "kode": "BMRI",
     "market_cap": 401644806209536,
-    "eps": 667.49,
-    "per": 6.4720073,
+    "eps": 667.25,
+    "per": 6.474335,
     "pbv": 1.4167581,
     "roe": null,
     "der": null,
-    "dividen_yield": 1122.0,
+    "dividen_yield": 1128.0,
     "harga": 4320.0,
     "saham_beredar": 92487999999,
     "last_updated": "2026-09-01"
@@ -189,7 +189,7 @@
     "pbv": 1.6177574,
     "roe": null,
     "der": null,
-    "dividen_yield": 184.0,
+    "dividen_yield": 185.0,
     "harga": 1790.0,
     "saham_beredar": 46129260138,
     "last_updated": "2026-09-01"
@@ -197,8 +197,8 @@
   {
     "kode": "BRPT",
     "market_cap": 171492490870784,
-    "eps": 26.6,
-    "per": 68.79699,
+    "eps": 26.72,
+    "per": 68.48803,
     "pbv": 70384.62,
     "roe": null,
     "der": null,
@@ -215,7 +215,7 @@
     "pbv": 1.437878,
     "roe": null,
     "der": null,
-    "dividen_yield": 588.0,
+    "dividen_yield": 604.0,
     "harga": 3060.0,
     "saham_beredar": 16398000000,
     "last_updated": "2026-09-01"
@@ -223,12 +223,12 @@
   {
     "kode": "CTRA",
     "market_cap": 11862844375040,
-    "eps": 136.0,
-    "per": 4.7058825,
+    "eps": 136.02,
+    "per": 4.70519,
     "pbv": 0.48422706,
     "roe": null,
     "der": null,
-    "dividen_yield": 571.0,
+    "dividen_yield": 563.0,
     "harga": 640.0,
     "saham_beredar": 18535695255,
     "last_updated": "2026-09-01"
@@ -236,12 +236,12 @@
   {
     "kode": "ESSA",
     "market_cap": 11972747722752,
-    "eps": 52.52,
-    "per": 13.233054,
+    "eps": 52.58,
+    "per": 13.217953,
     "pbv": 27800.0,
     "roe": null,
     "der": null,
-    "dividen_yield": 846.0,
+    "dividen_yield": 800.0,
     "harga": 695.0,
     "saham_beredar": 17226975700,
     "last_updated": "2026-09-01"
@@ -249,12 +249,12 @@
   {
     "kode": "EXCL",
     "market_cap": 50413621477376,
-    "eps": -249.01,
+    "eps": -249.02,
     "per": null,
     "pbv": 1.7298877,
     "roe": null,
     "der": null,
-    "dividen_yield": 574.0,
+    "dividen_yield": 564.0,
     "harga": 2770.0,
     "saham_beredar": 18199862451,
     "last_updated": "2026-09-01"
@@ -280,7 +280,7 @@
     "pbv": 1.6299614,
     "roe": null,
     "der": null,
-    "dividen_yield": 333.0,
+    "dividen_yield": 349.0,
     "harga": 7375.0,
     "saham_beredar": 11661908000,
     "last_updated": "2026-09-01"
@@ -293,7 +293,7 @@
     "pbv": 18773.234,
     "roe": null,
     "der": null,
-    "dividen_yield": 149.0,
+    "dividen_yield": 148.0,
     "harga": 5050.0,
     "saham_beredar": 10539784534,
     "last_updated": "2026-09-01"
@@ -306,7 +306,7 @@
     "pbv": 0.82465243,
     "roe": null,
     "der": null,
-    "dividen_yield": 397.0,
+    "dividen_yield": 387.0,
     "harga": 7200.0,
     "saham_beredar": 8780426500,
     "last_updated": "2026-09-01"
@@ -332,7 +332,7 @@
     "pbv": 2.0804245,
     "roe": null,
     "der": null,
-    "dividen_yield": 439.0,
+    "dividen_yield": 444.0,
     "harga": 2390.0,
     "saham_beredar": 32250810956,
     "last_updated": "2026-09-01"
@@ -358,7 +358,7 @@
     "pbv": 1.3226717,
     "roe": null,
     "der": null,
-    "dividen_yield": 645.0,
+    "dividen_yield": 636.0,
     "harga": 2240.0,
     "saham_beredar": 8793280701,
     "last_updated": "2026-09-01"
@@ -384,7 +384,7 @@
     "pbv": 1.4413966,
     "roe": null,
     "der": null,
-    "dividen_yield": 250.0,
+    "dividen_yield": 255.0,
     "harga": 775.0,
     "saham_beredar": 45248860110,
     "last_updated": "2026-09-01"
@@ -397,7 +397,7 @@
     "pbv": 2.1150465,
     "roe": null,
     "der": null,
-    "dividen_yield": 55.0,
+    "dividen_yield": 56.0,
     "harga": 710.0,
     "saham_beredar": 28504000000,
     "last_updated": "2026-09-01"
@@ -410,7 +410,7 @@
     "pbv": 1.5902617,
     "roe": null,
     "der": null,
-    "dividen_yield": 67.0,
+    "dividen_yield": 71.0,
     "harga": 1465.0,
     "saham_beredar": 16600000000,
     "last_updated": "2026-09-01"
@@ -418,8 +418,8 @@
   {
     "kode": "MBMA",
     "market_cap": 57777552621568,
-    "eps": 10.29,
-    "per": 51.992226,
+    "eps": 10.32,
+    "per": 51.841087,
     "pbv": 35666.668,
     "roe": null,
     "der": null,
@@ -436,7 +436,7 @@
     "pbv": 83142.86,
     "roe": null,
     "der": null,
-    "dividen_yield": 40.0,
+    "dividen_yield": 42.0,
     "harga": 2910.0,
     "saham_beredar": 24416902071,
     "last_updated": "2026-09-01"
@@ -449,7 +449,7 @@
     "pbv": 16404.494,
     "roe": null,
     "der": null,
-    "dividen_yield": 474.0,
+    "dividen_yield": 459.0,
     "harga": 1460.0,
     "saham_beredar": 24680621344,
     "last_updated": "2026-09-01"
@@ -462,7 +462,7 @@
     "pbv": 13290.599,
     "roe": null,
     "der": null,
-    "dividen_yield": 832.0,
+    "dividen_yield": 821.0,
     "harga": 1555.0,
     "saham_beredar": 24241508195,
     "last_updated": "2026-09-01"
@@ -475,7 +475,7 @@
     "pbv": 21666.666,
     "roe": null,
     "der": null,
-    "dividen_yield": 480.0,
+    "dividen_yield": 478.0,
     "harga": 1040.0,
     "saham_beredar": 41899535623,
     "last_updated": "2026-09-01"
@@ -522,12 +522,12 @@
   {
     "kode": "SMRA",
     "market_cap": 5315759177728,
-    "eps": 36.06,
-    "per": 8.929562,
+    "eps": 36.05,
+    "per": 8.932039,
     "pbv": 0.44694474,
     "roe": null,
     "der": null,
-    "dividen_yield": 158.0,
+    "dividen_yield": 159.0,
     "harga": 322.0,
     "saham_beredar": 16508568358,
     "last_updated": "2026-09-01"
@@ -540,7 +540,7 @@
     "pbv": 1.9186522,
     "roe": null,
     "der": null,
-    "dividen_yield": 868.0,
+    "dividen_yield": 858.0,
     "harga": 2610.0,
     "saham_beredar": 98580940799,
     "last_updated": "2026-09-01"
@@ -553,7 +553,7 @@
     "pbv": 0.9150761,
     "roe": null,
     "der": null,
-    "dividen_yield": 302.0,
+    "dividen_yield": 304.0,
     "harga": 452.0,
     "saham_beredar": 58211582377,
     "last_updated": "2026-09-01"
@@ -566,7 +566,7 @@
     "pbv": 0.95154333,
     "roe": null,
     "der": null,
-    "dividen_yield": 913.0,
+    "dividen_yield": 906.0,
     "harga": 25575.0,
     "saham_beredar": 3493093536,
     "last_updated": "2026-09-01"
