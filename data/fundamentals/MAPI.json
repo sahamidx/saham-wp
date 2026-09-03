@@ -1,13 +1,13 @@
 {
   "kode": "MAPI",
-  "market_cap": 23738001129472,
-  "eps": 148.99,
-  "per": 9.5979595,
-  "pbv": 1.5522691,
+  "market_cap": 23572001062912,
+  "eps": 149.01,
+  "per": 9.529562,
+  "pbv": 1.5414141,
   "roe": null,
   "der": null,
-  "dividen_yield": 68.0,
-  "harga": 1430.0,
+  "dividen_yield": 70.0,
+  "harga": 1420.0,
   "saham_beredar": 16600000000,
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-03"
 }
