@@ -15,7 +15,7 @@
   {
     "kode": "ADMR",
     "market_cap": 67864669192192,
-    "eps": 133.02,
+    "eps": 138.44,
     "per": 12.479326,
     "pbv": 41500.0,
     "roe": null,
@@ -144,7 +144,7 @@
   },
   {
     "kode": "BBRI",
-    "market_cap": 513833076523008,
+    "market_cap": 513460488110080,
     "eps": 407.14,
     "per": 8.375497,
     "pbv": 1.6046742,
@@ -152,7 +152,7 @@
     "der": null,
     "dividen_yield": 1233.0,
     "harga": 3410.0,
-    "saham_beredar": 149878079535,
+    "saham_beredar": 150574927703,
     "last_updated": "2026-09-03"
   },
   {
@@ -170,7 +170,7 @@
   },
   {
     "kode": "BMRI",
-    "market_cap": 414661073698816,
+    "market_cap": 416266653270016,
     "eps": 667.52,
     "per": 6.6814475,
     "pbv": 1.4626715,
@@ -178,7 +178,7 @@
     "der": null,
     "dividen_yield": 1094.0,
     "harga": 4460.0,
-    "saham_beredar": 92487999999,
+    "saham_beredar": 93333333331,
     "last_updated": "2026-09-03"
   },
   {
@@ -189,7 +189,7 @@
     "pbv": 1.6267952,
     "roe": null,
     "der": null,
-    "dividen_yield": 183.0,
+    "dividen_yield": 182.0,
     "harga": 1800.0,
     "saham_beredar": 46129260138,
     "last_updated": "2026-09-03"
@@ -197,8 +197,8 @@
   {
     "kode": "BRPT",
     "market_cap": 168681132785664,
-    "eps": 26.57,
-    "per": 67.745575,
+    "eps": 26.28,
+    "per": 68.49315,
     "pbv": 69230.766,
     "roe": null,
     "der": null,
@@ -223,8 +223,8 @@
   {
     "kode": "CTRA",
     "market_cap": 11955522764800,
-    "eps": 136.0,
-    "per": 4.742647,
+    "eps": 140.35,
+    "per": 4.5956535,
     "pbv": 0.4880101,
     "roe": null,
     "der": null,
@@ -236,8 +236,8 @@
   {
     "kode": "ESSA",
     "market_cap": 12403422003200,
-    "eps": 52.48,
-    "per": 13.719512,
+    "eps": 52.85,
+    "per": 13.623463,
     "pbv": 28800.0,
     "roe": null,
     "der": null,
@@ -327,8 +327,8 @@
   {
     "kode": "ISAT",
     "market_cap": 78046962909184,
-    "eps": 231.99,
-    "per": 10.431484,
+    "eps": 237.89,
+    "per": 10.172769,
     "pbv": 2.1065388,
     "roe": null,
     "der": null,
@@ -339,7 +339,7 @@
   },
   {
     "kode": "ITMG",
-    "market_cap": 29154611298304,
+    "market_cap": 28835613507584,
     "eps": 3372.12,
     "per": 7.7547655,
     "pbv": 15177.017,
@@ -347,7 +347,7 @@
     "der": null,
     "dividen_yield": 663.0,
     "harga": 26150.0,
-    "saham_beredar": 1114899100,
+    "saham_beredar": 1102700300,
     "last_updated": "2026-09-03"
   },
   {
@@ -366,8 +366,8 @@
   {
     "kode": "JSMR",
     "market_cap": 22063928573952,
-    "eps": 509.06,
-    "per": 5.9717913,
+    "eps": 521.06,
+    "per": 5.834261,
     "pbv": 0.59415793,
     "roe": null,
     "der": null,
@@ -379,8 +379,8 @@
   {
     "kode": "KLBF",
     "market_cap": 35294111858688,
-    "eps": 79.58,
-    "per": 9.801457,
+    "eps": 82.21,
+    "per": 9.487897,
     "pbv": 1.450696,
     "roe": null,
     "der": null,
@@ -392,8 +392,8 @@
   {
     "kode": "MAPA",
     "market_cap": 19952801153024,
-    "eps": 67.97,
-    "per": 10.298661,
+    "eps": 68.46,
+    "per": 10.224949,
     "pbv": 2.0852573,
     "roe": null,
     "der": null,
@@ -405,8 +405,8 @@
   {
     "kode": "MAPI",
     "market_cap": 23572001062912,
-    "eps": 149.01,
-    "per": 9.529562,
+    "eps": 147.96,
+    "per": 9.597188,
     "pbv": 1.5414141,
     "roe": null,
     "der": null,
@@ -444,12 +444,12 @@
   {
     "kode": "MEDC",
     "market_cap": 36650721738752,
-    "eps": 108.23,
-    "per": 13.720779,
+    "eps": 111.23,
+    "per": 13.350715,
     "pbv": 16685.393,
     "roe": null,
     "der": null,
-    "dividen_yield": 442.0,
+    "dividen_yield": 446.0,
     "harga": 1485.0,
     "saham_beredar": 24680621344,
     "last_updated": "2026-09-03"
@@ -457,8 +457,8 @@
   {
     "kode": "PGAS",
     "market_cap": 37331922845696,
-    "eps": 177.45,
-    "per": 8.678501,
+    "eps": 178.02,
+    "per": 8.650713,
     "pbv": 13162.394,
     "roe": null,
     "der": null,
@@ -483,8 +483,8 @@
   {
     "kode": "PTBA",
     "market_cap": 33276494348288,
-    "eps": 412.08,
-    "per": 7.0132017,
+    "eps": 437.84,
+    "per": 6.6005845,
     "pbv": 1.4140251,
     "roe": null,
     "der": null,
@@ -497,11 +497,11 @@
     "kode": "SIDO",
     "market_cap": 10537801875456,
     "eps": 32.57,
-    "per": 10.991711,
+    "per": 10.927961,
     "pbv": 3.5182548,
     "roe": null,
     "der": null,
-    "dividen_yield": 1034.0,
+    "dividen_yield": 1039.0,
     "harga": 358.0,
     "saham_beredar": 29435200000,
     "last_updated": "2026-09-03"
@@ -548,7 +548,7 @@
   {
     "kode": "TOWR",
     "market_cap": 25962366369792,
-    "eps": 68.01,
+    "eps": 67.7,
     "per": 6.557859,
     "pbv": 0.90292907,
     "roe": null,
