@@ -2,8 +2,8 @@
   {
     "kode": "ACES",
     "market_cap": 6026377560064,
-    "eps": 44.64,
-    "per": 7.885305,
+    "eps": 44.39,
+    "per": 7.929714,
     "pbv": 0.94693655,
     "roe": null,
     "der": null,
@@ -80,8 +80,8 @@
   {
     "kode": "ANTM",
     "market_cap": 78580604207104,
-    "eps": 370.56,
-    "per": 8.824482,
+    "eps": 378.67,
+    "per": 8.635487,
     "pbv": 2.1084137,
     "roe": null,
     "der": null,
@@ -118,7 +118,7 @@
   },
   {
     "kode": "BBCA",
-    "market_cap": 789258222698496,
+    "market_cap": 789479816167424,
     "eps": 471.76,
     "per": 13.619213,
     "pbv": 2.918449,
@@ -126,33 +126,33 @@
     "der": null,
     "dividen_yield": 584.0,
     "harga": 6425.0,
-    "saham_beredar": 122841751300,
+    "saham_beredar": 122876240600,
     "last_updated": "2026-09-10"
   },
   {
     "kode": "BBNI",
-    "market_cap": 141575829061632,
-    "eps": 555.05,
-    "per": 6.84623,
+    "market_cap": 141433927368704,
+    "eps": 552.14,
+    "per": 6.8823123,
     "pbv": 0.8613148,
     "roe": null,
     "der": null,
     "dividen_yield": 915.0,
     "harga": 3800.0,
-    "saham_beredar": 578683733,
+    "saham_beredar": 354899856,
     "last_updated": "2026-09-10"
   },
   {
     "kode": "BBRI",
-    "market_cap": 500271515959296,
-    "eps": 406.98,
-    "per": 8.157649,
+    "market_cap": 499908758994944,
+    "eps": 395.08,
+    "per": 8.403361,
     "pbv": 1.5540088,
     "roe": null,
     "der": null,
     "dividen_yield": 1222.0,
     "harga": 3320.0,
-    "saham_beredar": 149878079535,
+    "saham_beredar": 150574927703,
     "last_updated": "2026-09-10"
   },
   {
@@ -170,7 +170,7 @@
   },
   {
     "kode": "BMRI",
-    "market_cap": 406293470773248,
+    "market_cap": 407866670317568,
     "eps": 667.28,
     "per": 6.5489745,
     "pbv": 1.4331557,
@@ -178,7 +178,7 @@
     "der": null,
     "dividen_yield": 1237.0,
     "harga": 4370.0,
-    "saham_beredar": 92487999999,
+    "saham_beredar": 93333333331,
     "last_updated": "2026-09-10"
   },
   {
@@ -197,8 +197,8 @@
   {
     "kode": "BRPT",
     "market_cap": 162121325215744,
-    "eps": 26.55,
-    "per": 65.16008,
+    "eps": 26.47,
+    "per": 65.35701,
     "pbv": 66538.46,
     "roe": null,
     "der": null,
@@ -223,8 +223,8 @@
   {
     "kode": "CTRA",
     "market_cap": 11492130816000,
-    "eps": 136.0,
-    "per": 4.5588236,
+    "eps": 134.91,
+    "per": 4.5956564,
     "pbv": 0.46909496,
     "roe": null,
     "der": null,
@@ -275,8 +275,8 @@
   {
     "kode": "ICBP",
     "market_cap": 83674192150528,
-    "eps": 632.88,
-    "per": 11.337062,
+    "eps": 630.68,
+    "per": 11.37661,
     "pbv": 1.585759,
     "roe": null,
     "der": null,
@@ -288,8 +288,8 @@
   {
     "kode": "INCO",
     "market_cap": 50801758175232,
-    "eps": 259.7,
-    "per": 18.559875,
+    "eps": 255.46,
+    "per": 18.867924,
     "pbv": 17918.217,
     "roe": null,
     "der": null,
@@ -314,8 +314,8 @@
   {
     "kode": "INKP",
     "market_cap": 49785948078080,
-    "eps": 2139.0,
-    "per": 4.2543244,
+    "eps": 2093.0,
+    "per": 4.347826,
     "pbv": 6920.152,
     "roe": null,
     "der": null,
@@ -339,7 +339,7 @@
   },
   {
     "kode": "ITMG",
-    "market_cap": 29098864803840,
+    "market_cap": 28780477284352,
     "eps": 3358.58,
     "per": 7.771141,
     "pbv": 15147.997,
@@ -347,12 +347,12 @@
     "der": null,
     "dividen_yield": 652.0,
     "harga": 26100.0,
-    "saham_beredar": 1114899100,
+    "saham_beredar": 1102700300,
     "last_updated": "2026-09-10"
   },
   {
     "kode": "JPFA",
-    "market_cap": 27155299827712,
+    "market_cap": 26976192561152,
     "eps": 449.05,
     "per": 5.166463,
     "pbv": 1.3699099,
@@ -360,7 +360,7 @@
     "der": null,
     "dividen_yield": 598.0,
     "harga": 2320.0,
-    "saham_beredar": 8793280701,
+    "saham_beredar": 8716079901,
     "last_updated": "2026-09-10"
   },
   {
@@ -418,8 +418,8 @@
   {
     "kode": "MBMA",
     "market_cap": 57237573730304,
-    "eps": 10.23,
-    "per": 51.80841,
+    "eps": 9.86,
+    "per": 53.752537,
     "pbv": 35333.336,
     "roe": null,
     "der": null,
@@ -482,15 +482,15 @@
   },
   {
     "kode": "PTBA",
-    "market_cap": 35694508507136,
+    "market_cap": 35694504312832,
     "eps": 411.99,
     "per": 7.5244546,
-    "pbv": 1.5167743,
+    "pbv": 1.4149895,
     "roe": null,
     "der": null,
     "dividen_yield": 369.0,
     "harga": 3100.0,
-    "saham_beredar": 11514357250,
+    "saham_beredar": 11514357245,
     "last_updated": "2026-09-10"
   },
   {
@@ -514,7 +514,7 @@
     "pbv": 0.26758257,
     "roe": null,
     "der": null,
-    "dividen_yield": 191.0,
+    "dividen_yield": 189.0,
     "harga": 1730.0,
     "saham_beredar": 6735544089,
     "last_updated": "2026-09-10"
@@ -522,8 +522,8 @@
   {
     "kode": "SMRA",
     "market_cap": 5480844886016,
-    "eps": 36.07,
-    "per": 9.204325,
+    "eps": 35.86,
+    "per": 9.258226,
     "pbv": 0.460825,
     "roe": null,
     "der": null,
