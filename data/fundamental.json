@@ -118,7 +118,7 @@
   },
   {
     "kode": "BBCA",
-    "market_cap": 777192250277888,
+    "market_cap": 776974079361024,
     "eps": 472.24,
     "per": 13.393614,
     "pbv": 2.8730254,
@@ -126,12 +126,12 @@
     "der": null,
     "dividen_yield": 593.0,
     "harga": 6325.0,
-    "saham_beredar": 122876240600,
+    "saham_beredar": 122841751300,
     "last_updated": "2026-09-11"
   },
   {
     "kode": "BBNI",
-    "market_cap": 139572956626944,
+    "market_cap": 139712996048896,
     "eps": 555.18,
     "per": 6.754566,
     "pbv": 0.84998167,
@@ -139,12 +139,12 @@
     "der": null,
     "dividen_yield": 920.0,
     "harga": 3750.0,
-    "saham_beredar": 354899856,
+    "saham_beredar": 578683733,
     "last_updated": "2026-09-11"
   },
   {
     "kode": "BBRI",
-    "market_cap": 492380016869376,
+    "market_cap": 492737304461312,
     "eps": 407.03,
     "per": 8.033806,
     "pbv": 1.5306052,
@@ -152,7 +152,7 @@
     "der": null,
     "dividen_yield": 1259.0,
     "harga": 3270.0,
-    "saham_beredar": 150574927703,
+    "saham_beredar": 149878079535,
     "last_updated": "2026-09-11"
   },
   {
@@ -170,7 +170,7 @@
   },
   {
     "kode": "BMRI",
-    "market_cap": 406933320237056,
+    "market_cap": 405363744571392,
     "eps": 667.3,
     "per": 6.533793,
     "pbv": 1.4298762,
@@ -178,7 +178,7 @@
     "der": null,
     "dividen_yield": 1242.0,
     "harga": 4360.0,
-    "saham_beredar": 93333333331,
+    "saham_beredar": 92487999999,
     "last_updated": "2026-09-11"
   },
   {
@@ -339,7 +339,7 @@
   },
   {
     "kode": "ITMG",
-    "market_cap": 28780477284352,
+    "market_cap": 29098864803840,
     "eps": 3343.41,
     "per": 7.8064013,
     "pbv": 15147.997,
@@ -347,12 +347,12 @@
     "der": null,
     "dividen_yield": 663.0,
     "harga": 26100.0,
-    "saham_beredar": 1102700300,
+    "saham_beredar": 1114899100,
     "last_updated": "2026-09-11"
   },
   {
     "kode": "JPFA",
-    "market_cap": 26162256412672,
+    "market_cap": 26335959318528,
     "eps": 448.92,
     "per": 5.0120287,
     "pbv": 1.3285764,
@@ -360,7 +360,7 @@
     "der": null,
     "dividen_yield": 603.0,
     "harga": 2250.0,
-    "saham_beredar": 8716079901,
+    "saham_beredar": 8793280701,
     "last_updated": "2026-09-11"
   },
   {
@@ -482,15 +482,15 @@
   },
   {
     "kode": "PTBA",
-    "market_cap": 35694504312832,
+    "market_cap": 35694508507136,
     "eps": 411.99,
     "per": 7.5244546,
-    "pbv": 1.4149895,
+    "pbv": 1.5167743,
     "roe": null,
     "der": null,
     "dividen_yield": 369.0,
     "harga": 3100.0,
-    "saham_beredar": 11514357245,
+    "saham_beredar": 11514357250,
     "last_updated": "2026-09-11"
   },
   {
@@ -514,7 +514,7 @@
     "pbv": 0.26216906,
     "roe": null,
     "der": null,
-    "dividen_yield": 189.0,
+    "dividen_yield": 191.0,
     "harga": 1695.0,
     "saham_beredar": 6735544089,
     "last_updated": "2026-09-11"
