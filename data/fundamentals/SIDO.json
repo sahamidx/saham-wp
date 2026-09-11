@@ -1,13 +1,13 @@
 {
   "kode": "SIDO",
-  "market_cap": 10302320017408,
-  "eps": 32.6,
-  "per": 10.7361965,
-  "pbv": 3.4396346,
+  "market_cap": 10243449815040,
+  "eps": 32.59,
+  "per": 10.6781225,
+  "pbv": 3.4199796,
   "roe": null,
   "der": null,
-  "dividen_yield": 1051.0,
-  "harga": 350.0,
+  "dividen_yield": 1057.0,
+  "harga": 348.0,
   "saham_beredar": 29435200000,
-  "last_updated": "2026-09-10"
+  "last_updated": "2026-09-11"
 }
