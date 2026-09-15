@@ -1,13 +1,13 @@
 {
   "kode": "MDKA",
-  "market_cap": 70320673259520,
-  "eps": 1.83,
-  "per": 1573.7705,
-  "pbv": 82285.71,
+  "market_cap": 68611490185216,
+  "eps": 1.73,
+  "per": 1624.2775,
+  "pbv": 80285.71,
   "roe": null,
   "der": null,
-  "dividen_yield": 40.0,
-  "harga": 2880.0,
+  "dividen_yield": 43.0,
+  "harga": 2810.0,
   "saham_beredar": 24416902071,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-15"
 }
