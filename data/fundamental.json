@@ -2,8 +2,8 @@
   {
     "kode": "ACES",
     "market_cap": 5923654860800,
-    "eps": 44.63,
-    "per": 7.7526326,
+    "eps": 44.12,
+    "per": 7.8422484,
     "pbv": 0.9307956,
     "roe": null,
     "der": null,
@@ -41,8 +41,8 @@
   {
     "kode": "AKRA",
     "market_cap": 28808663007232,
-    "eps": 137.74,
-    "per": 10.56338,
+    "eps": 136.33,
+    "per": 10.672632,
     "pbv": 2.2231696,
     "roe": null,
     "der": null,
@@ -67,8 +67,8 @@
   {
     "kode": "AMRT",
     "market_cap": 54035759497216,
-    "eps": 86.06,
-    "per": 15.280038,
+    "eps": 87.05,
+    "per": 15.10626,
     "pbv": 3.0355844,
     "roe": null,
     "der": null,
@@ -80,8 +80,8 @@
   {
     "kode": "ANTM",
     "market_cap": 77859678846976,
-    "eps": 370.41,
-    "per": 8.747064,
+    "eps": 359.32,
+    "per": 9.017032,
     "pbv": 2.0890706,
     "roe": null,
     "der": null,
@@ -118,7 +118,7 @@
   },
   {
     "kode": "BBCA",
-    "market_cap": 764689936023552,
+    "market_cap": 764904617279488,
     "eps": 471.87,
     "per": 13.192193,
     "pbv": 2.8276021,
@@ -126,12 +126,12 @@
     "der": null,
     "dividen_yield": 605.0,
     "harga": 6225.0,
-    "saham_beredar": 122841751300,
+    "saham_beredar": 122876240600,
     "last_updated": "2026-09-21"
   },
   {
     "kode": "BBNI",
-    "market_cap": 134869606727680,
+    "market_cap": 134734424309760,
     "eps": 555.17,
     "per": 6.5205255,
     "pbv": 0.82051563,
@@ -139,20 +139,20 @@
     "der": null,
     "dividen_yield": 957.0,
     "harga": 3620.0,
-    "saham_beredar": 578683733,
+    "saham_beredar": 354899856,
     "last_updated": "2026-09-21"
   },
   {
     "kode": "BBRI",
-    "market_cap": 497257824649216,
-    "eps": 407.13,
-    "per": 8.105519,
+    "market_cap": 496897248722944,
+    "eps": 405.9,
+    "per": 8.130081,
     "pbv": 1.5446473,
     "roe": null,
     "der": null,
     "dividen_yield": 1263.0,
     "harga": 3300.0,
-    "saham_beredar": 149878079535,
+    "saham_beredar": 150574927703,
     "last_updated": "2026-09-21"
   },
   {
@@ -170,15 +170,15 @@
   },
   {
     "kode": "BMRI",
-    "market_cap": 390487991123968,
-    "eps": 667.12,
-    "per": 6.295719,
+    "market_cap": 391999987384320,
+    "eps": 657.72,
+    "per": 6.3856964,
     "pbv": 1.3774036,
     "roe": null,
     "der": null,
     "dividen_yield": 1275.0,
     "harga": 4200.0,
-    "saham_beredar": 92487999999,
+    "saham_beredar": 93333333331,
     "last_updated": "2026-09-21"
   },
   {
@@ -339,7 +339,7 @@
   },
   {
     "kode": "ITMG",
-    "market_cap": 29126738051072,
+    "market_cap": 28808044347392,
     "eps": 3369.54,
     "per": 7.753284,
     "pbv": 15162.507,
@@ -347,12 +347,12 @@
     "der": null,
     "dividen_yield": 648.0,
     "harga": 26125.0,
-    "saham_beredar": 1114899100,
+    "saham_beredar": 1102700300,
     "last_updated": "2026-09-21"
   },
   {
     "kode": "JPFA",
-    "market_cap": 26570056007680,
+    "market_cap": 26394809597952,
     "eps": 448.93,
     "per": 5.0564675,
     "pbv": 1.340386,
@@ -360,7 +360,7 @@
     "der": null,
     "dividen_yield": 614.0,
     "harga": 2270.0,
-    "saham_beredar": 8793280701,
+    "saham_beredar": 8716079901,
     "last_updated": "2026-09-21"
   },
   {
@@ -490,7 +490,7 @@
     "der": null,
     "dividen_yield": 371.0,
     "harga": 3080.0,
-    "saham_beredar": 11514357250,
+    "saham_beredar": 11514357245,
     "last_updated": "2026-09-21"
   },
   {
@@ -522,8 +522,8 @@
   {
     "kode": "SMRA",
     "market_cap": 4424296562688,
-    "eps": 36.06,
-    "per": 7.4320574,
+    "eps": 34.76,
+    "per": 7.710012,
     "pbv": 0.37199128,
     "roe": null,
     "der": null,
@@ -537,7 +537,7 @@
     "market_cap": 246452353761280,
     "eps": 178.18,
     "per": 14.030756,
-    "pbv": 2.0827014,
+    "pbv": 1.8377894,
     "roe": null,
     "der": null,
     "dividen_yield": 872.0,
@@ -561,8 +561,8 @@
   {
     "kode": "UNTR",
     "market_cap": 86279408582656,
-    "eps": 2115.09,
-    "per": 11.67799,
+    "eps": 2104.44,
+    "per": 11.737089,
     "pbv": 0.9189881,
     "roe": null,
     "der": null,
