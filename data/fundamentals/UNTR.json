@@ -1,13 +1,13 @@
 {
   "kode": "UNTR",
-  "market_cap": 84969502277632,
-  "eps": 2082.22,
-  "per": 11.682243,
-  "pbv": 0.90503585,
+  "market_cap": 85231486894080,
+  "eps": 2113.84,
+  "per": 11.5429735,
+  "pbv": 0.9078263,
   "roe": null,
   "der": null,
-  "dividen_yield": 887.0,
-  "harga": 24325.0,
+  "dividen_yield": 901.0,
+  "harga": 24400.0,
   "saham_beredar": 3493093536,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-23"
 }
